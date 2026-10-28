@@ -1,0 +1,56 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "PA",
+    "name": "Pennsylvania"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1394,
+    "minimum_weekly_benefit_usd": 706.11,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67% of average weekly wage",
+    "max_ttd_weeks": null,
+    "max_ttd_wording": "No statutory limit",
+    "statute_of_limitations": "3 years from injury",
+    "rate_year": 2026,
+    "official_source_label": "Pennsylvania statewide average weekly wage",
+    "official_source_resource": "https://www.pa.gov/agencies/dli/programs-services/workers-compensation/workers--compensation-claim/statewide-average-weekly-wage-saww",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/pennsylvania",
+    "verification": {
+      "checked_at": "2026-10-28T17:15:00Z",
+      "resource": "https://www.pa.gov/agencies/dli/programs-services/workers-compensation/workers--compensation-claim/statewide-average-weekly-wage-saww",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "corrected",
+          "quote": "For example, the maximum weekly compensation rate for calendar year 2026 is $1,394.00.",
+          "claimcalc_value": 1273,
+          "official_value": 1394
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/pennsylvania",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01-15",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": 50000,
+    "approximate": true,
+    "average_settlement_wording": "~$50,000"
+  }
+}

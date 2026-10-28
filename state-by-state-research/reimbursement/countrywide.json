@@ -1,0 +1,94 @@
+{
+  "schema_version": "0.1",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": null,
+    "name": "United States, NCCI statistical-plan states, countrywide"
+  },
+  "currency": "USD",
+  "all_claims_combined": {
+    "average_cost_usd": 50076,
+    "accidents": "2023-2024",
+    "source_id": "nsc-injury-facts",
+    "note": "The page calls this the average cost for all claims combined. It is a different population from the lost-time rows below."
+  },
+  "lost_time_above_average": {
+    "by_cause": [
+      {
+        "id": "motor_vehicle",
+        "label": "Motor-vehicle crashes",
+        "average_cost_usd": 93105
+      },
+      {
+        "id": "burn",
+        "label": "Burns",
+        "average_cost_usd": 62261
+      },
+      {
+        "id": "fall_or_slip",
+        "label": "Falls or slips",
+        "average_cost_usd": 57314
+      },
+      {
+        "id": "caught",
+        "label": "Caught",
+        "average_cost_usd": 51719
+      }
+    ],
+    "by_nature": [
+      {
+        "id": "amputation",
+        "label": "Amputation",
+        "average_cost_usd": 149543
+      },
+      {
+        "id": "other_trauma",
+        "label": "Other trauma",
+        "average_cost_usd": 71788
+      },
+      {
+        "id": "fracture_crush_dislocation",
+        "label": "Fracture, crush, or dislocation",
+        "average_cost_usd": 69576
+      },
+      {
+        "id": "burn",
+        "label": "Burns",
+        "average_cost_usd": 57867
+      }
+    ],
+    "by_part_of_body": [
+      {
+        "id": "head_or_cns",
+        "label": "Head or central nervous system",
+        "average_cost_usd": 97603
+      },
+      {
+        "id": "multiple_body_parts",
+        "label": "Multiple body parts",
+        "average_cost_usd": 82346
+      },
+      {
+        "id": "neck",
+        "label": "Neck",
+        "average_cost_usd": 75304
+      },
+      {
+        "id": "hip_thigh_pelvis",
+        "label": "Hip, thigh, and pelvis",
+        "average_cost_usd": 69443
+      },
+      {
+        "id": "leg",
+        "label": "Leg",
+        "average_cost_usd": 67542
+      },
+      {
+        "id": "arm_or_shoulder",
+        "label": "Arm or shoulders",
+        "average_cost_usd": 57621
+      }
+    ],
+    "source_id": "nsc-injury-facts"
+  }
+}

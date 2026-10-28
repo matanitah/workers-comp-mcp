@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "CA",
+    "name": "California"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1619.15,
+    "minimum_weekly_benefit_usd": 242.86,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67% of average weekly wage",
+    "max_ttd_weeks": 104,
+    "max_ttd_wording": "104 weeks",
+    "statute_of_limitations": "1 year from injury or knowledge of work-related injury",
+    "rate_year": 2025,
+    "official_source_label": "California Division of Workers' Compensation benefit chart",
+    "official_source_resource": "https://www.dir.ca.gov/dwc/workerscompensationbenefits.htm",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/california",
+    "verification": {
+      "checked_at": "2026-10-28T17:15:00Z",
+      "resource": "https://www.dir.ca.gov/dwc/workerscompensationbenefits.htm",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/california",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01-15",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": 62000,
+    "approximate": true,
+    "average_settlement_wording": "~$62,000"
+  }
+}

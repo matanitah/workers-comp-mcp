@@ -1,0 +1,56 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "SC",
+    "name": "South Carolina"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1189.94,
+    "minimum_weekly_benefit_usd": null,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67%",
+    "max_ttd_weeks": 500,
+    "max_ttd_wording": "500",
+    "statute_of_limitations": null,
+    "rate_year": 2026,
+    "official_source_label": "South Carolina compensation rates",
+    "official_source_resource": "https://www.wcc.sc.gov/claims/compensation-rates",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verification": {
+      "checked_at": "2026-10-28T17:15:00Z",
+      "resource": "https://www.wcc.sc.gov/claims/compensation-rates",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "corrected",
+          "quote": "For accidents occurring on or after January 1, 2026 the maximum weekly compensation rate shall be $1,189.94As provided in Title 42 of the SC Code of Laws, 1976 the maximum weekly compensation rate equals 66⅔% of an individual’s average weekly wage, not to exceed the average weekly wage in this State for the preceding fiscal year as determined by the South Carolina Department of Employment and Workforce.",
+          "claimcalc_value": 1093.67,
+          "official_value": 1189.94
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": null,
+    "approximate": false,
+    "average_settlement_wording": null
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "IA",
+    "name": "Iowa"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 2431,
+    "minimum_weekly_benefit_usd": 425,
+    "wage_replacement_rate": 0.8,
+    "wage_replacement_basis": "80% of average weekly wage",
+    "max_ttd_weeks": null,
+    "max_ttd_wording": "No statutory limit",
+    "statute_of_limitations": "2 years from injury",
+    "rate_year": 2026,
+    "official_source_label": "Iowa workers' compensation rate information",
+    "official_source_resource": "https://dial.iowa.gov/hearings/workers-comp/rates",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/iowa",
+    "verification": {
+      "checked_at": "2026-10-28T17:15:00Z",
+      "resource": "https://dial.iowa.gov/hearings/workers-comp/rates",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "corrected",
+          "quote": "July 1, 2026, through June 30, 2027: TTD, HP, PTD, & Death Benefits: $2,431.00",
+          "claimcalc_value": 2161,
+          "official_value": 2431
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "corrected",
+          "quote": "July 1, 2026, through June 30, 2027: TTD & HP Benefits: Lower of $425.00",
+          "claimcalc_value": 343,
+          "official_value": 425
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/iowa",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01-15",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": 52000,
+    "approximate": true,
+    "average_settlement_wording": "~$52,000"
+  }
+}

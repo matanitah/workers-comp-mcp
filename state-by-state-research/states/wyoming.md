@@ -1,0 +1,57 @@
+---
+type: Jurisdiction
+title: Wyoming
+description: "Wyoming workers' compensation agency and primary law. Open average reimbursement by injury is not yet available."
+resource: "https://dws.wyo.gov/dws-division/workers-compensation/"
+tags: [workers-compensation, wy, reimbursement, regulations]
+status: draft
+stale_after: "2027-04-01T00:00:00Z"
+generated: { by: cursor-agent/grok-4.7, at: "2026-10-28T15:00:00Z" }
+sources:
+  - id: dol-directory
+    resource: https://www.dol.gov/agencies/owcp/wc
+    title: State Workers' Compensation Officials
+    author: process:us-dol-owcp
+    last_modified: "2026-10-28T15:00:00Z"
+  - id: agency
+    resource: "https://dws.wyo.gov/dws-division/workers-compensation/"
+    title: "Department of Workforce Services, Workers' Compensation Division"
+    author: process:state-agency
+  - id: claimcalc
+    resource: "https://claimcalc.app/workers-comp/settlement-chart"
+    title: "ClaimCalc workers' compensation figures for Wyoming"
+    author: process:claimcalc
+regulations:
+  - id: primary-statute
+    title: "Wyoming Statutes title 27"
+    resource: "https://wyoleg.gov/statutes/compress/title27.pdf"
+    publisher: "Wyoming Legislature"
+    coverage: "act"
+---
+
+# Agency
+
+Department of Workforce Services, Workers' Compensation Division administers workers' compensation for Wyoming.[^dol-directory]
+
+- Address: 5221 Yellowstone Road, Cheyenne, WY 82002; mailing P.O. Box 20207, Cheyenne, WY 82002
+- Phone: (307) 777-7441
+- Web: https://dws.wyo.gov/dws-division/workers-compensation/
+- Insurance market: Exclusive state fund.
+
+The U.S. Department of Labor directory was retrieved on 2026-10-28. Office names and street addresses on that page can lag a move. The linked page is the one DOL published for this jurisdiction.
+
+# Primary law
+
+Wyoming Worker's Compensation Act, Wyo. Stat. Ann. § 27-14-101 et seq.
+
+# Regulations
+
+This concept does not yet contain the statute or regulations word for word. The text to mirror later is the official code named above, from the state publisher, together with the agency's adopted medical-fee and benefit rules. Commercial annotated codes are not the source.
+
+# Reimbursement
+
+The reimbursement record stores the weekly maximum, weekly minimum, wage-replacement rate, and temporary-total week cap. Injury-level settlement amounts are the ClaimCalc object in that file.[^dol-directory]
+
+The reimbursement record is [Wyoming reimbursement](/reimbursement/wyoming.json).
+
+[^dol-directory]: State Workers' Compensation Officials, U.S. Department of Labor

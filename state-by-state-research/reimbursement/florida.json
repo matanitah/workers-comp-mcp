@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "FL",
+    "name": "Florida"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1295,
+    "minimum_weekly_benefit_usd": 20,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67% of average weekly wage",
+    "max_ttd_weeks": 260,
+    "max_ttd_wording": "260 weeks",
+    "statute_of_limitations": "2 years from injury (and within 1 year of last benefit)",
+    "rate_year": 2025,
+    "official_source_label": "Florida Workers Compensation Board",
+    "official_source_resource": "https://www.myfloridacfo.com/division/wc",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/florida",
+    "verification": {
+      "checked_at": "2026-10-28T15:34:12Z",
+      "resource": "https://www.myfloridacfo.com/division/wc",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/florida",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01-15",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": 48000,
+    "approximate": true,
+    "average_settlement_wording": "~$48,000"
+  }
+}

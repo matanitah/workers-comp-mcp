@@ -1,0 +1,56 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "NC",
+    "name": "North Carolina"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1446,
+    "minimum_weekly_benefit_usd": 30,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67% of average weekly wage",
+    "max_ttd_weeks": 500,
+    "max_ttd_wording": "500 weeks",
+    "statute_of_limitations": "2 years from injury",
+    "rate_year": 2026,
+    "official_source_label": "North Carolina maximum weekly compensation rates",
+    "official_source_resource": "https://www.ic.nc.gov/workers-compensation-claims/maximum-weekly-compensation-rates",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/north-carolina",
+    "verification": {
+      "checked_at": "2026-10-28T17:15:00Z",
+      "resource": "https://www.ic.nc.gov/workers-compensation-claims/maximum-weekly-compensation-rates",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "corrected",
+          "quote": "maximum weekly workers' compensation benefit for total disability based on the year of your injury. 2026 $1,446.00",
+          "claimcalc_value": 1330,
+          "official_value": 1446
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/north-carolina",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01-15",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": 42000,
+    "approximate": true,
+    "average_settlement_wording": "~$42,000"
+  }
+}

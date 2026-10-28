@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "DC",
+    "name": "District of Columbia"
+  },
+  "currency": "USD",
+  "benefits": {
+    "status": "unlisted",
+    "reason": "The District of Columbia is absent from ClaimCalc's 50-state settlement chart.",
+    "verification": {
+      "checked_at": "2026-10-28T15:34:12Z",
+      "status": "unlisted",
+      "reason": "ClaimCalc does not list the District of Columbia, so no official source page was fetched."
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "status": "unlisted",
+    "reason": "The District of Columbia is absent from ClaimCalc's 50-state settlement chart.",
+    "resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "retrieved_at": "2026-10-28T15:30:00Z"
+  }
+}

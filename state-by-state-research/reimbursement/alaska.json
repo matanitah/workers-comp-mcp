@@ -1,0 +1,103 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "AK",
+    "name": "Alaska"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1500,
+    "minimum_weekly_benefit_usd": null,
+    "wage_replacement_rate": 0.8,
+    "wage_replacement_basis": "80%",
+    "max_ttd_weeks": 312,
+    "max_ttd_wording": "312",
+    "statute_of_limitations": null,
+    "rate_year": 2025,
+    "official_source_label": "AK WC Board ↗",
+    "official_source_resource": "https://labor.alaska.gov/wc/",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verification": {
+      "checked_at": "2026-10-28T15:34:12Z",
+      "resource": "https://labor.alaska.gov/wc/",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": {
+    "kind": "maximum_allowable_reimbursement",
+    "resource": "https://labor.state.ak.us/wc/forms/2025_Alaska_Medical_Fee_Schedule.pdf",
+    "authority": "AS 23.30.097",
+    "effective_label": "Official Alaska Workers' Compensation Medical Fee Schedule, 2025",
+    "basis": "cms_rbrvs_total_rvu_times_alaska_conversion_factor",
+    "formula": "(Work RVU x Work GPCI) + (Practice Expense RVU x Practice Expense GPCI) + (Malpractice RVU x Malpractice GPCI) = Total RVU; MAR = Total RVU x conversion factor, or the provider's actual fee, whichever is lower.",
+    "conversion_factors_usd": [
+      {
+        "service": "Surgery",
+        "cpt_range": "10004-69990",
+        "conversion_factor": 119.0
+      },
+      {
+        "service": "Radiology",
+        "cpt_range": "70010-79999",
+        "conversion_factor": 121.0
+      },
+      {
+        "service": "Pathology and laboratory",
+        "cpt_range": "80047-89398",
+        "conversion_factor": 122.0
+      },
+      {
+        "service": "Medicine, excluding anesthesia",
+        "cpt_range": "90281-99082, 99151-99199, and 99500-99607",
+        "conversion_factor": 80.0
+      },
+      {
+        "service": "Evaluation and management",
+        "cpt_range": "99091, 99202-99499",
+        "conversion_factor": 80.0
+      },
+      {
+        "service": "Anesthesia",
+        "cpt_range": "00100-01999 and 99100-99140",
+        "conversion_factor": 100.0
+      },
+      {
+        "service": "Hospital outpatient facility",
+        "cpt_range": null,
+        "conversion_factor": 221.79
+      },
+      {
+        "service": "Ambulatory surgical center",
+        "cpt_range": null,
+        "conversion_factor": 168.0
+      }
+    ],
+    "note": "These conversion factors produce a procedure maximum. They are not an average paid amount by injury. Other-provider services are 85 percent of the MAR. Outpatient and ASC factors apply to CMS outpatient relative weights, not to the physician RVU formula."
+  },
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": null,
+    "approximate": false,
+    "average_settlement_wording": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "MI",
+    "name": "Michigan"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1201,
+    "minimum_weekly_benefit_usd": 0,
+    "wage_replacement_rate": 0.8,
+    "wage_replacement_basis": "80% of average weekly wage",
+    "max_ttd_weeks": null,
+    "max_ttd_wording": "No statutory limit",
+    "statute_of_limitations": "2 years from injury",
+    "rate_year": 2026,
+    "official_source_label": "Michigan 2026 weekly compensation rate book",
+    "official_source_resource": "https://www.michigan.gov/leo/-/media/Project/Websites/leo/Documents/WDCA-Calculation-Program/wca_2026_Rate_Book.pdf",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/michigan",
+    "verification": {
+      "checked_at": "2026-10-28T17:15:00Z",
+      "resource": "https://www.michigan.gov/leo/-/media/Project/Websites/leo/Documents/WDCA-Calculation-Program/wca_2026_Rate_Book.pdf",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "corrected",
+          "quote": "The 2026 maximum weekly compensation rate is $1201.00",
+          "claimcalc_value": 1219.69,
+          "official_value": 1201
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": {
+    "kind": "maximum_allowable_payment",
+    "resource": "https://www.michigan.gov/leo/-/media/Project/Websites/leo/Documents/WDCA-HEALTHCARE/2025/RBRVS/RBRVS-methodology.pdf",
+    "effective_label": "Effective 2025-06-04, for evaluation and management, medicine, physical medicine, radiology, and surgery",
+    "basis": "michigan_rvu_times_conversion_factor",
+    "formula": "Total Michigan RVU for the CPT code x $49.08.",
+    "conversion_factor_usd": 49.08,
+    "note": "This is the maximum allowable payment method for the service groups named in that reference guide. It is not an average reimbursement by injury."
+  },
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/michigan",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01-15",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": 46000,
+    "approximate": true,
+    "average_settlement_wording": "~$46,000"
+  }
+}

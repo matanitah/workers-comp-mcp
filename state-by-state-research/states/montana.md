@@ -1,0 +1,57 @@
+---
+type: Jurisdiction
+title: Montana
+description: "Montana workers' compensation agency and primary law. Open average reimbursement by injury is not yet available."
+resource: "https://dli.mt.gov/worker/"
+tags: [workers-compensation, mt, reimbursement, regulations]
+status: draft
+stale_after: "2027-04-01T00:00:00Z"
+generated: { by: cursor-agent/grok-4.7, at: "2026-10-28T15:00:00Z" }
+sources:
+  - id: dol-directory
+    resource: https://www.dol.gov/agencies/owcp/wc
+    title: State Workers' Compensation Officials
+    author: process:us-dol-owcp
+    last_modified: "2026-10-28T15:00:00Z"
+  - id: agency
+    resource: "https://dli.mt.gov/worker/"
+    title: "Department of Labor and Industry, Workers' Compensation Claims Assistance Bureau"
+    author: process:state-agency
+  - id: claimcalc
+    resource: "https://claimcalc.app/workers-comp/settlement-chart"
+    title: "ClaimCalc workers' compensation figures for Montana"
+    author: process:claimcalc
+regulations:
+  - id: primary-statute
+    title: "Montana Code Annotated section 39-71-101"
+    resource: "https://leg.mt.gov/bills/mca/title_0390/chapter_0710/part_0010/section_0010/0390-0710-0010-0010.html"
+    publisher: "Montana Legislative Services"
+    coverage: "section"
+---
+
+# Agency
+
+Department of Labor and Industry, Workers' Compensation Claims Assistance Bureau administers workers' compensation for Montana.[^dol-directory]
+
+- Address: 301 South Park Avenue, Floors 4 and 5, Helena, MT 59601; mailing P.O. Box 8011, Helena, MT 59604-8011
+- Phone: (406) 444-6543
+- Web: https://dli.mt.gov/worker/
+- Insurance market: Private carriers, self-insurance, or a competitive state fund.
+
+The U.S. Department of Labor directory was retrieved on 2026-10-28. Office names and street addresses on that page can lag a move. The linked page is the one DOL published for this jurisdiction.
+
+# Primary law
+
+Montana Workers' Compensation Act, Mont. Code Ann. Title 39, Chapter 71.
+
+# Regulations
+
+This concept does not yet contain the statute or regulations word for word. The text to mirror later is the official code named above, from the state publisher, together with the agency's adopted medical-fee and benefit rules. Commercial annotated codes are not the source.
+
+# Reimbursement
+
+The reimbursement record stores the weekly maximum, weekly minimum, wage-replacement rate, and temporary-total week cap. Injury-level settlement amounts are the ClaimCalc object in that file.[^dol-directory]
+
+The reimbursement record is [Montana reimbursement](/reimbursement/montana.json).
+
+[^dol-directory]: State Workers' Compensation Officials, U.S. Department of Labor

@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "CO",
+    "name": "Colorado"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1394.94,
+    "minimum_weekly_benefit_usd": null,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67%",
+    "max_ttd_weeks": null,
+    "max_ttd_wording": "No limit",
+    "statute_of_limitations": null,
+    "rate_year": 2025,
+    "official_source_label": "CO WC Board ↗",
+    "official_source_resource": "https://cdle.colorado.gov/dwc",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verification": {
+      "checked_at": "2026-10-28T15:34:12Z",
+      "resource": "https://cdle.colorado.gov/dwc",
+      "fetch_status": "error",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": null,
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": null,
+    "approximate": false,
+    "average_settlement_wording": null
+  }
+}

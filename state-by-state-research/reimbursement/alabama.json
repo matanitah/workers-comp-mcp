@@ -1,0 +1,60 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "AL",
+    "name": "Alabama"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1112,
+    "minimum_weekly_benefit_usd": null,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67%",
+    "max_ttd_weeks": 500,
+    "max_ttd_wording": "500",
+    "statute_of_limitations": null,
+    "rate_year": 2025,
+    "official_source_label": "AL WC Board ↗",
+    "official_source_resource": "https://labor.alabama.gov/wc/",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verification": {
+      "checked_at": "2026-10-28T15:34:12Z",
+      "resource": "https://labor.alabama.gov/wc/",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": {
+    "kind": "procedure_based_maximums",
+    "resource": "https://labor.alabama.gov/wc/2025FeeSchedules.aspx",
+    "effective_label": "2025 fee schedules",
+    "basis": "published_dollar_schedules_by_service_category",
+    "rates_copied": false,
+    "note": "Alabama publishes 2025 schedules for ambulance, ambulatory surgery, anesthesia, chiropractic, clinical lab, dental, DME, home health, hospital, in-office surgery, optometrist, pain pump, pharmaceutics, physical therapy, and physician services. Those tables are maximums by procedure, not average reimbursement by injury, and they are not copied here."
+  },
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": null,
+    "approximate": false,
+    "average_settlement_wording": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": "0.2",
+  "schema": "/reimbursement-schema",
+  "jurisdiction": {
+    "postal": "UT",
+    "name": "Utah"
+  },
+  "currency": "USD",
+  "benefits": {
+    "maximum_weekly_benefit_usd": 1042,
+    "minimum_weekly_benefit_usd": null,
+    "wage_replacement_rate": 0.6667,
+    "wage_replacement_basis": "66.67%",
+    "max_ttd_weeks": 312,
+    "max_ttd_wording": "312",
+    "statute_of_limitations": null,
+    "rate_year": 2025,
+    "official_source_label": "UT WC Board ↗",
+    "official_source_resource": "https://laborcommission.utah.gov/",
+    "figures_from": "claimcalc",
+    "claimcalc_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verification": {
+      "checked_at": "2026-10-28T15:34:12Z",
+      "resource": "https://laborcommission.utah.gov/",
+      "fetch_status": "ok",
+      "fields": {
+        "maximum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "minimum_weekly_benefit_usd": {
+          "status": "unchecked"
+        },
+        "wage_replacement_rate": {
+          "status": "unchecked"
+        },
+        "max_ttd_weeks": {
+          "status": "unchecked"
+        }
+      }
+    }
+  },
+  "medical_fee_schedule": {
+    "kind": "medical_fee_standard",
+    "resource": "https://laborcommission.utah.gov/wp-content/uploads/2025-Medical-Fee-Schedule-3.pdf",
+    "authority": "Utah Code § 34A-2-407; rule R612-300-4 as printed in the 2025 Medical Fee Standard",
+    "effective_label": "2025 Medical Fee Standard, using the 2024 first-quarter CMS RBRVS adopted in that document",
+    "basis": "rbrvs_rvu_times_specialty_conversion_factor",
+    "conversion_factors_usd": [
+      {
+        "service": "Anesthesiology",
+        "unit": "1 unit per 15 minutes",
+        "conversion_factor": 75.0
+      },
+      {
+        "service": "Medicine, evaluation and management codes 99203-99204 and 99213-99214",
+        "conversion_factor": 62.0
+      },
+      {
+        "service": "Medicine, all other evaluation and management codes",
+        "conversion_factor": 59.0
+      },
+      {
+        "service": "Pathology and laboratory",
+        "conversion_factor": 63.0
+      },
+      {
+        "service": "Radiology",
+        "conversion_factor": 65.0
+      },
+      {
+        "service": "Restorative services",
+        "conversion_factor": 56.0
+      },
+      {
+        "service": "Surgery, all 20000 codes, codes 49505 through 49525, and all 60000 codes",
+        "conversion_factor": 72.0
+      },
+      {
+        "service": "Other surgery",
+        "conversion_factor": 72.0
+      }
+    ],
+    "note": "The source text says 'Evaluation and Medicine' for the $62 and $59 rows. These factors price a CPT code. They are not average reimbursement by injury."
+  },
+  "claimcalc": {
+    "kind": "injury_settlement",
+    "resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "chart_resource": "https://claimcalc.app/workers-comp/settlement-chart",
+    "verified": "2025-01",
+    "retrieved_at": "2026-10-28T15:30:00Z",
+    "average_settlement_usd": null,
+    "approximate": false,
+    "average_settlement_wording": null
+  }
+}

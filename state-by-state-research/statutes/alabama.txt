@@ -1,0 +1,49 @@
+Section 25-5-1 Definitions.
+
+Throughout this chapter, the following words and phrases as used therein shall be considered to have the following meanings, respectively, unless the context shall clearly indicate a different meaning in the connection used:
+
+(1) COMPENSATION. The money benefits to be paid on account of injury or death, as provided in Articles 3 and 4. The recovery which an employee may receive by action at law under Article 2 is termed “recovery of civil damages,” as provided for in Sections 25-5-31 and 25-5-34. “Compensation” does not include medical and surgical treatment and attention, medicine, medical and surgical supplies, and crutches and apparatus furnished an employee on account of an injury.
+
+(2) CHILD or CHILDREN. The terms include posthumous children and all other children entitled by law to inherit as children of the deceased; stepchildren who were members of the family of the deceased, at the time of the accident, and were dependent upon him or her for support; a grandchild of the deceased employee, whose father is dead or is an invalid, and who was supported by and a member of the family of the deceased grandparent at the time of the accident.
+
+(3) DEPENDENT CHILD or ORPHAN. An unmarried child under the age of 18 years or one over that age who is physically or mentally incapacitated from earning.
+
+(4) EMPLOYER. Every person who employs another to perform a service for hire and pays wages directly to the person. The term shall include a service company for a self-insurer or any person, corporation, copartnership, or association, or group thereof, and, if the employer is insured, shall include his or her insurer, the insurer being entitled to the employer’s rights, immunities, and remedies under this chapter, as far as applicable. The inclusion of an employer’s insurer within the term shall not provide the insurer with immunity from liability to an injured employee, or his or her dependent in the case of death to whom the insurer would otherwise be subject to liability under Section 25-5-11. Notwithstanding the provisions of this chapter, in no event shall a common carrier by motor vehicle operating pursuant to a certificate of public convenience and necessity be deemed the “employer” of a leased-operator or owner-operator of a motor vehicle or vehicles under contract to the common carrier. Pursuant to Section 25-4-10(b)(26), a marketplace platform shall not be considered to be an employer for purposes of this chapter.
+
+(5) EMPLOYEE or WORKER. The terms are used interchangeably, have the same meaning throughout this chapter, and shall be construed to mean the same. The terms include the plural and all ages and both sexes. The terms include every person in the service of another under any contract of hire, express or implied, oral or written, including aliens, also including minors who are legally permitted to work under the laws of this state, and also including all employees of Tannehill Furnace and Foundry Commission. Any reference in this chapter to a “worker” or “employee” shall include, if the worker or employee is dead, his or her dependent, as defined in this chapter, if the context so requires. Pursuant to Section 25-4-10(b)(26), a marketplace contractor shall not be considered to be an employee for purposes of this chapter.
+
+(6) WAGES or WEEKLY WAGES. The terms shall in all cases be construed to mean “average weekly earnings”, based on those earnings subject to federal income taxation and reportable on the Federal W-2 tax form which shall include voluntary contributions made by the employee to a tax-qualified retirement program, voluntary contributions to a Section 125 cafeteria program, and fringe benefits as defined herein. Average weekly earnings shall not include fringe benefits if and only if the employer continues the benefits during the period of time for which compensation is paid. “Fringe benefits” shall mean only the employer’s portion of health, life, and disability insurance premiums.
+
+(7) ACCIDENT. The term, as used in the phrases “personal injuries due to accident” or “injuries or death caused by accident” shall be construed to mean an unexpected or unforeseen event, happening suddenly and violently, with or without human fault, and producing at the time injury to the physical structure of the body or damage to an artificial member of the body by accidental means.
+
+(8) INJURIES BY AN ACCIDENT ARISING OUT OF AND IN THE COURSE OF THE EMPLOYMENT. Without otherwise affecting either the meaning or interpretation of the clause, the clause does not cover workers except while engaged in or about the premises where their services are being performed or where their service requires their presence as a part of service at the time of the accident and during the hours of service as workers.
+
+(9) INJURY. “Injury” and “personal injury” shall mean only injury by accident arising out of and in the course of the employment, and shall not include a disease in any form, except for an occupational disease or where it results naturally and unavoidably from the accident. Injury shall include physical injury caused either by carpal tunnel syndrome disorder or by other cumulative trauma disorder if either disorder arises out of and in the course of the employment, and breakage or damage to eyeglasses, hearing aids, dentures, or other prosthetic devices which function as part of the body, when injury to them is incidental to an on-the-job injury to the body. Injury does not include an injury caused by the act of a third person or fellow employee intended to injure the employee because of reasons personal to him or her and not directed against him or her as an employee or because of his or her employment. Injury does not include a mental disorder or mental injury that has neither been produced nor been proximately caused by some physical injury to the body.
+
+(10) SINGULAR and PLURAL. Wherever the singular is used, the plural shall be included.
+
+(11) GENDER. Where the masculine gender is used, the feminine and neuter shall be included.
+
+(12) LOSS OF HAND OR FOOT. Amputation between the elbow and wrist shall be considered as the equivalent to the loss of a hand, and the amputation between the knee and ankle shall be considered as the equivalent of the loss of a foot.
+
+(13) PROVIDERS. A medical clinic, pharmacist, dentist, chiropractor, psychologist, podiatrist, physical therapist, pharmaceutical supply company, rehabilitation service, or other person or entity providing treatment, service, or equipment, or person or entity providing facilities at which the employee receives treatment.
+
+(14) MEDICAL. All services, treatment, or equipment provided by a provider.
+
+(15) PREVAILING. The most commonly occurring reimbursements for health services, other than those provided by federal and state programs for the elderly (Medicare) and economically disadvantaged (Medicaid). “Prevailing” shall include not only amounts per procedure code, but also commonly used adjudication rules as applied to multiple procedures, global procedures, use of assistant surgeons, and others as appropriate. For hospitals, “prevailing” rate of reimbursement or payment shall be established by the method contained in Section 25-5-77.
+
+(16) PARTICIPATING AND NON-PARTICIPATING HOSPITALS. Those hospitals that have a negotiated rate of reimbursement or payment with the Department of Workforce. “Nonparticipating hospitals” means those hospitals that have not negotiated a rate of reimbursement or payment with the Department of Workforce.
+
+(17) HOSPITAL. A hospital, ambulatory surgical center, outpatient rehabilitation center licensed by the State of Alabama, and diagnostic facilities accredited by the Commission on Accreditation of Rehabilitation Facilities.
+
+(18) THE COURT. The circuit court that would have jurisdiction in an ordinary civil action involving a claim for the injuries or death in question, and “the judge” means a judge of that court.
+
+(19) UTILIZATION REVIEW. The determination of medical necessity for medical and surgical in-hospital, out-patient, and alternative settings treatments for acute and rehabilitation care. It includes precertification for elective treatments. Concurrent review and, if necessary, retrospective review are required for emergency cases.
+
+(20) BILL SCREENING. The evaluation and adjudication of provider bills for appropriateness of reimbursement relative to medical necessity and prevailing rates of reimbursement, duplicate charges, unbundling of charges, relativeness of services to injury or illness, necessity of assistant surgeons, adjudication of multiple procedures, number of modalities, global procedures, and any other prevailing adjudication issues that may apply.
+
+(21) ADJUDICATION. The review of claims to apply prevailing rules that adjust reimbursements for the amount of work required when multiple procedures are performed at the same time, when assisting surgeons are present, to eliminate duplicate billing from the unbundling of global fees, and to adjust for the most commonly occurring method adopted for total reimbursement.
+
+(22) OMBUDSMAN. An individual who assists injured or disabled employees, persons claiming death benefits, employers, and other persons in protecting their rights and obtaining information available under the workers’ compensation law.
+
+(Code 1923, §7396; Acts 1939, No. 661, p. 1036, §18; Code 1940, T. 26, §262; Acts 1949, No. 36, p. 47; Acts 1971, No. 667, p. 1376, §§1, 2; Acts 1973, No. 1062, p. 1750, §4; Acts 1975, 4th Ex. Sess., No. 86, p. 2729, §2; Acts 1984, 1st Ex. Sess., No. 84-787, p. 177; Acts 1984, 2nd Ex. Sess., No. 85-41, p. 44, §2; Acts 1992, No. 92-537, p. 1082, §2; Act 2022-197, §1.)

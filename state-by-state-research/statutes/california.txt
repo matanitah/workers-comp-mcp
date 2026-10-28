@@ -1,0 +1,903 @@
+LABOR CODE - LAB
+DIVISION 4. WORKERS' COMPENSATION AND INSURANCE [3200 - 6002]  ( Heading of Division 4 amended by Stats. 1979, Ch. 373. )
+PART 1. SCOPE AND OPERATION [3200 - 4418]  ( Part 1 enacted by Stats. 1937, Ch. 90. )
+
+
+CHAPTER 1. General Provisions [3200 - 3219]  ( Chapter 1 enacted by Stats. 1937, Ch. 90. )
+
+
+
+3200.
+  
+
+The Legislature hereby declares its intent that the term “workmen’s compensation” shall hereafter also be known as “workers’ compensation, ” and that the “Workmen’s Compensation Appeals Board” shall hereafter be known as the “Workers’ Compensation Appeals Board.” In furtherance of this policy it is the desire of the Legislature that references to the terms “workmen’s compensation” and “Workmen’s Compensation Appeals Board” in this code or elsewhere be changed to “workers’ compensation” and “Workers’ Compensation Appeals Board” when such laws are being amended for any purpose. This act is declaratory and not amendatory of existing law.
+
+(Amended by Stats. 1981, Ch. 21, Sec. 5. Effective April 18, 1981.)
+
+3201.
+  
+
+This division and Division 5 (commencing with Section 6300) are an expression of the police power and are intended to make effective and apply to a complete system of workers’ compensation the provisions of Section 4 of Article XIV of the California Constitution.
+
+(Amended by Stats. 1986, Ch. 248, Sec. 157.)
+
+3201.5.
+  
+
+(a) Except as provided in subdivisions (b) and (c), the Department of Industrial Relations and the courts of this state shall recognize as valid and binding any provision in a collective bargaining agreement between a private employer or groups of employers engaged in construction, construction maintenance, or activities limited to rock, sand, gravel, cement and asphalt operations, heavy-duty mechanics, surveying, and construction inspection and a union that is the recognized or certified exclusive bargaining representative that establishes any of the following:
+
+(1) An alternative dispute resolution system governing disputes between employees and employers or their insurers that supplements or replaces all or part of those dispute resolution processes contained in this division, including, but not limited to, mediation and arbitration. Any system of arbitration shall provide that the decision of the arbiter or board of arbitration is subject to review by the appeals board in the same manner as provided for reconsideration of a final order, decision, or award made and filed by a workers’ compensation administrative law judge pursuant to the procedures set forth in Article 1 (commencing with Section 5900) of Chapter 7 of Part 4 of Division 4, and the court of appeals pursuant to the procedures set forth in Article 2 (commencing with Section 5950) of Chapter 7 of Part 4 of Division 4, governing orders, decisions, or awards of the appeals board. The findings of fact, award, order, or decision of the arbitrator shall have the same force and effect as an award, order, or decision of a workers’ compensation administrative law judge. Any provision for arbitration established pursuant to this section shall not be subject to Sections 5270, 5270.5, 5271, 5272, 5273, 5275, and 5277.
+
+(2) The use of an agreed list of providers of medical treatment that may be the exclusive source of all medical treatment provided under this division.
+
+(3) The use of an agreed, limited list of qualified medical evaluators and agreed medical evaluators that may be the exclusive source of qualified medical evaluators and agreed medical evaluators under this division.
+
+(4) Joint labor management safety committees.
+
+(5) A light-duty, modified job or return-to-work program.
+
+(6) A vocational rehabilitation or retraining program utilizing an agreed list of providers of rehabilitation services that may be the exclusive source of providers of rehabilitation services under this division.
+
+(b) (1) Nothing in this section shall allow a collective bargaining agreement that diminishes the entitlement of an employee to compensation payments for total or partial disability, temporary disability, vocational rehabilitation, or medical treatment fully paid by the employer as otherwise provided in this division. The portion of any agreement that violates this paragraph shall be declared null and void.
+
+(2) The parties may negotiate any aspect of the delivery of medical benefits and the delivery of disability compensation to employees of the employer or group of employers that are eligible for group health benefits and nonoccupational disability benefits through their employer.
+
+(c) Subdivision (a) shall apply only to the following:
+
+(1) An employer developing or projecting an annual workers’ compensation insurance premium, in California, of two hundred fifty thousand dollars ($250,000) or more, or any employer that paid an annual workers’ compensation insurance premium, in California, of two hundred fifty thousand dollars ($250,000) in at least one of the previous three years.
+
+(2) Groups of employers engaged in a workers’ compensation safety group complying with Sections 11656.6 and 11656.7 of the Insurance Code, and established pursuant to a joint labor management safety committee or committees, that develops or projects annual workers’ compensation insurance premiums of two million dollars ($2,000,000) or more.
+
+(3) Employers or groups of employers that are self-insured in compliance with Section 3700 that would have projected annual workers’ compensation costs that meet the requirements of, and that meet the other requirements of, paragraph (1) in the case of employers, or paragraph (2) in the case of groups of employers.
+
+(4) Employers covered by an owner or general contractor provided wrap-up insurance policy applicable to a single construction site that develops workers’ compensation insurance premiums of two million dollars ($2,000,000) or more with respect to those employees covered by that wrap-up insurance policy.
+
+(d) Employers and labor representatives who meet the eligibility requirements of this section shall be issued a letter by the administrative director advising each employer and labor representative that, based upon the review of all documents and materials submitted as required by the administrative director, each has met the eligibility requirements of this section.
+
+(e) The premium rate for a policy of insurance issued pursuant to this section shall not be subject to the requirements of Section 11732 or 11732.5 of the Insurance Code.
+
+(f) No employer may establish or continue a program established under this section until it has provided the administrative director with all of the following:
+
+(1) Upon its original application and whenever it is renegotiated thereafter, a copy of the collective bargaining agreement and the approximate number of employees who will be covered thereby.
+
+(2) Upon its original application and annually thereafter, a valid and active license where that license is required by law as a condition of doing business in the state within the industries set forth in subdivision (a) of Section 3201.5.
+
+(3) Upon its original application and annually thereafter, a statement signed under penalty of perjury, that no action has been taken by any administrative agency or court of the United States to invalidate the collective bargaining agreement.
+
+(4) The name, address, and telephone number of the contact person of the employer.
+
+(5) Any other information that the administrative director deems necessary to further the purposes of this section.
+
+(g) No collective bargaining representative may establish or continue to participate in a program established under this section unless all of the following requirements are met:
+
+(1) Upon its original application and annually thereafter, it has provided to the administrative director a copy of its most recent LM-2 or LM-3 filing with the United States Department of Labor, along with a statement, signed under penalty of perjury, that the document is a true and correct copy.
+
+(2) It has provided to the administrative director the name, address, and telephone number of the contact person or persons of the collective bargaining representative or representatives.
+
+(h) Commencing July 1, 1995, and annually thereafter, the Division of Workers’ Compensation shall report to the Director of Industrial Relations the number of collective bargaining agreements received and the number of employees covered by these agreements.
+
+(i) The data obtained by the administrative director pursuant to this section shall be confidential and not subject to public disclosure under any law of this state. However, the Division of Workers’ Compensation shall create derivative works pursuant to subdivision (h) based on the collective bargaining agreements and data. Those derivative works shall not be confidential, but shall be public. On a monthly basis the administrative director shall make available an updated list of employers and unions entering into collective bargaining agreements containing provisions authorized by this section.
+
+(Amended by Stats. 2012, Ch. 363, Sec. 8. (SB 863) Effective January 1, 2013.)
+
+3201.7.
+  
+
+(a) Except as provided in subdivision (b), the Department of Industrial Relations and the courts of this state shall recognize as valid and binding any labor-management agreement that meets all of the following requirements:
+
+(1) The labor-management agreement has been negotiated separate and apart from any collective bargaining agreement covering affected employees.
+
+(2) The labor-management agreement is restricted to the establishment of the terms and conditions necessary to implement this section.
+
+(3) The labor-management agreement has been negotiated in accordance with the authorization of the administrative director pursuant to subdivision (d), between an employer or groups of employers and a union that is the recognized or certified exclusive bargaining representative that establishes any of the following:
+
+(A) An alternative dispute resolution system governing disputes between employees and employers or their insurers that supplements or replaces all or part of those dispute resolution processes contained in this division, including, but not limited to, mediation and arbitration. Any system of arbitration shall provide that the decision of the arbiter or board of arbitration is subject to review by the appeals board in the same manner as provided for reconsideration of a final order, decision, or award made and filed by a workers’ compensation administrative law judge pursuant to the procedures set forth in Article 1 (commencing with Section 5900) of Chapter 7 of Part 4 of Division 4, and the court of appeals pursuant to the procedures set forth in Article 2 (commencing with Section 5950) of Chapter 7 of Part 4 of Division 4, governing orders, decisions, or awards of the appeals board. The findings of fact, award, order, or decision of the arbitrator shall have the same force and effect as an award, order, or decision of a workers’ compensation administrative law judge. Any provision for arbitration established pursuant to this section shall not be subject to Sections 5270, 5270.5, 5271, 5272, 5273, 5275, and 5277.
+
+(B) The use of an agreed list of providers of medical treatment that may be the exclusive source of all medical treatment provided under this division.
+
+(C) The use of an agreed, limited list of qualified medical evaluators and agreed medical evaluators that may be the exclusive source of qualified medical evaluators and agreed medical evaluators under this division.
+
+(D) Joint labor management safety committees.
+
+(E) A light-duty, modified job, or return-to-work program.
+
+(F) A vocational rehabilitation or retraining program utilizing an agreed list of providers of rehabilitation services that may be the exclusive source of providers of rehabilitation services under this division.
+
+(b) (1) Nothing in this section shall allow a labor-management agreement that diminishes the entitlement of an employee to compensation payments for total or partial disability, temporary disability, vocational rehabilitation, or medical treatment fully paid by the employer as otherwise provided in this division; nor shall any agreement authorized by this section deny to any employee the right to representation by counsel at all stages during the alternative dispute resolution process. The portion of any agreement that violates this paragraph shall be declared null and void.
+
+(2) The parties may negotiate any aspect of the delivery of medical benefits and the delivery of disability compensation to employees of the employer or group of employers that are eligible for group health benefits and nonoccupational disability benefits through their employer.
+
+(c) Subdivision (a) shall apply only to the following:
+
+(1) An employer developing or projecting an annual workers’ compensation insurance premium, in California, of fifty thousand dollars ($50,000) or more, and employing at least 50 employees, or any employer that paid an annual workers’ compensation insurance premium, in California, of fifty thousand dollars ($50,000), and employing at least 50 employees in at least one of the previous three years.
+
+(2) Groups of employers engaged in a workers’ compensation safety group complying with Sections 11656.6 and 11656.7 of the Insurance Code, and established pursuant to a joint labor management safety committee or committees, that develops or projects annual workers’ compensation insurance premiums of five hundred thousand dollars ($500,000) or more.
+
+(3) Employers or groups of employers, including cities and counties, that are self-insured in compliance with Section 3700 that would have projected annual workers’ compensation costs that meet the requirements of, and that meet the other requirements of, paragraph (1) in the case of employers, or paragraph (2) in the case of groups of employers.
+
+(4) The State of California.
+
+(d) Any recognized or certified exclusive bargaining representative in an industry not covered by Section 3201.5, may file a petition with the administrative director seeking permission to negotiate with an employer or group of employers to enter into a labor-management agreement pursuant to this section. The petition shall specify the bargaining unit or units to be included, the names of the employers or groups of employers, and shall be accompanied by proof of the labor union’s status as the exclusive bargaining representative. The current collective bargaining agreement or agreements shall be attached to the petition. The petition shall be in the form designated by the administrative director. Upon receipt of the petition, the administrative director shall promptly verify the petitioner’s status as the exclusive bargaining representative. If the petition satisfies the requirements set forth in this subdivision, the administrative director shall issue a letter advising each employer and labor representative of their eligibility to enter into negotiations, for a period not to exceed one year, for the purpose of reaching agreement on a labor-management agreement pursuant to this section. The parties may jointly request, and shall be granted, by the administrative director, an additional one-year period to negotiate an agreement.
+
+(e) No employer may establish or continue a program established under this section until it has provided the administrative director with all of the following:
+
+(1) Upon its original application and whenever it is renegotiated thereafter, a copy of the labor-management agreement and the approximate number of employees who will be covered thereby.
+
+(2) Upon its original application and annually thereafter, a statement signed under penalty of perjury, that no action has been taken by any administrative agency or court of the United States to invalidate the labor-management agreement.
+
+(3) The name, address, and telephone number of the contact person of the employer.
+
+(4) Any other information that the administrative director deems necessary to further the purposes of this section.
+
+(f) No collective bargaining representative may establish or continue to participate in a program established under this section unless all of the following requirements are met:
+
+(1) Upon its original application and annually thereafter, it has provided to the administrative director a copy of its most recent LM-2 or LM-3 filing with the United States Department of Labor, where such filing is required by law, along with a statement, signed under penalty of perjury, that the document is a true and correct copy.
+
+(2) It has provided to the administrative director the name, address, and telephone number of the contact person or persons of the collective bargaining representative or representatives.
+
+(g) Commencing July 1, 2005, and annually thereafter, the Division of Workers’ Compensation shall report to the Director of Industrial Relations the number of labor-management agreements received and the number of employees covered by these agreements.
+
+(h) The data obtained by the administrative director pursuant to this section shall be confidential and not subject to public disclosure under any law of this state. However, the Division of Workers’ Compensation shall create derivative works pursuant to subdivision (g) based on the labor-management agreements and data. Those derivative works shall not be confidential, but shall be public. On a monthly basis, the administrative director shall make available an updated list of employers and unions entering into labor-management agreements authorized by this section.
+
+(Amended by Stats. 2012, Ch. 363, Sec. 9. (SB 863) Effective January 1, 2013.)
+
+3201.81.
+  
+
+In the horse racing industry, the organization certified by the California Horse Racing Board to represent the majority of licensed jockeys pursuant to subdivision (b) of Section 19612.9 of the Business and Professions Code is the labor organization authorized to negotiate the collective bargaining agreement establishing an alternative dispute resolution system for licensed jockeys pursuant to Section 3201.7.
+
+(Amended by Stats. 2007, Ch. 130, Sec. 184. Effective January 1, 2008.)
+
+3201.9.
+  
+
+(a) On or before June 30, 2004, and biannually thereafter, the report required in subdivision (i) of Section 3201.5 and subdivision (h) of Section 3201.7 shall include updated loss experience for all employers and groups of employers participating in a program established under those sections. The report shall include updated data on each item set forth in subdivision (i) of Section 3201.5 and subdivision (h) of Section 3201.7 for the previous year for injuries in 2003 and beyond. Updates for each program shall be done for the original program year and for subsequent years. The insurers, the Department of Insurance, and the rating organization designated by the Insurance Commissioner pursuant to Article 3 (commencing with Section 11750) of Chapter 3 of Part 3 of Division 2 of the Insurance Code, shall provide the administrative director with any information that the administrative director determines is reasonably necessary to conduct the study.
+
+(b) Commencing on and after June 30, 2004, the Insurance Commissioner, or the commissioner’s designee, shall prepare for inclusion in the report required in subdivision (i) of Section 3201.5 and subdivision (h) of Section 3201.7 a review of both of the following:
+
+(1) The adequacy of rates charged for these programs, including the impact of scheduled credits and debits.
+
+(2) The comparative results for these programs with other programs not subject to Section 3201.5 or Section 3201.7.
+
+(c) Upon completion of the report, the administrative director shall report the findings to the Legislature, the Department of Insurance, the designated rating organization, and the programs and insurers participating in the study.
+
+(d) The data obtained by the administrative director pursuant to this section shall be confidential and not subject to public disclosure under any law of this state.
+
+(Amended by Stats. 2004, Ch. 34, Sec. 8. Effective April 19, 2004.)
+
+3202.
+  
+
+This division and Division 5 (commencing with Section 6300) shall be liberally construed by the courts with the purpose of extending their benefits for the protection of persons injured in the course of their employment.
+
+(Amended by Stats. 1986, Ch. 248, Sec. 158.)
+
+3202.5.
+  
+
+All parties and lien claimants shall meet the evidentiary burden of proof on all issues by a preponderance of the evidence in order that all parties are considered equal before the law. “Preponderance of the evidence” means that evidence that, when weighed with that opposed to it, has more convincing force and the greater probability of truth. When weighing the evidence, the test is not the relative number of witnesses, but the relative convincing force of the evidence.
+
+(Amended by Stats. 2004, Ch. 34, Sec. 9. Effective April 19, 2004.)
+
+3203.
+  
+
+This division and Division 5 (commencing with Section 6300) do not apply to employers or employments which, according to law, are so engaged in interstate commerce as not to be subject to the legislative power of the state, nor to employees injured while they are so engaged, except in so far as these divisions are permitted to apply under the Constitution or laws of the United States.
+
+(Amended by Stats. 1986, Ch. 248, Sec. 159.)
+
+3204.
+  
+
+Unless the context otherwise requires, the definitions hereinafter set forth in this chapter shall govern the construction and meaning of the terms and phrases used in this division.
+
+(Enacted by Stats. 1937, Ch. 90.)
+
+3205.
+  
+
+“Division” means the Division of Workers’ Compensation.
+
+(Amended by Stats. 1994, Ch. 1097, Sec. 10. Effective January 1, 1995.)
+
+3205.5.
+  
+
+“Appeals board” means the Workers’ Compensation Appeals Board of the Division of Workers’ Compensation.
+
+(Amended by Stats. 1994, Ch. 1097, Sec. 11. Effective January 1, 1995.)
+
+3206.
+  
+
+“Administrative director” means the Director of the Division of Workers’ Compensation.
+
+(Amended by Stats. 1994, Ch. 1097, Sec. 12. Effective January 1, 1995.)
+
+3206.5.
+  
+
+For the purpose of this division and subject to restrictions or requirements that may be adopted by the administrative director or the Workers’ Compensation Appeals Board, documents that require a signature, including the signature of a notary on an acknowledgment, may be filed with an “electronic signature,” defined as an electronic sound, symbol, or process attached to or logically associated with an electronic record and executed or adopted by a person with the intent to sign the electronic record, where the electronic signature is attributable to a person per the requirements of Title 2.5 (commencing with Section 1633.1) of Part 2 of Division 3 of the Civil Code or Section 16.5 of the Government Code.
+
+(Added by Stats. 2024, Ch. 392, Sec. 2. (AB 2337) Effective January 1, 2025.)
+
+3207.
+  
+
+“Compensation” means compensation under this division and includes every benefit or payment conferred by this division upon an injured employee, or in the event of his or her death, upon his or her dependents, without regard to negligence.
+
+(Amended by Stats. 2004, Ch. 34, Sec. 10. Effective April 19, 2004.)
+
+3208.
+  
+
+“Injury” includes any injury or disease arising out of the employment, including injuries to artificial members, dentures, hearing aids, eyeglasses and medical braces of all types; provided, however, that eyeglasses and hearing aids will not be replaced, repaired, or otherwise compensated for, unless injury to them is incident to an injury causing disability.
+
+(Amended by Stats. 1971, Ch. 1064.)
+
+3208.05.
+  
+
+(a) “Injury” includes a reaction to or a side effect arising from health care provided by an employer to a health care worker, which health care is intended to prevent the development or manifestation of any bloodborne disease, illness, syndrome, or condition recognized as occupationally incurred by Cal-OSHA, the federal Centers for Disease Control and Prevention, or other appropriate governmental entities. This section shall apply only to preventive health care that the employer provided to a health care worker under the following circumstances: (1) prior to an exposure because of risk of occupational exposure to such a disease, illness, syndrome, or condition, or (2) where the preventive care is provided as a consequence of a documented exposure to blood or bodily fluid containing blood that arose out of and in the course of employment. Such a disease, illness, syndrome, or condition includes, but is not limited to, hepatitis, and the human immunodeficiency virus. Such preventive health care, and any disability indemnity or other benefits required as a result of the preventive health care provided by the employer, shall be compensable under the workers’ compensation system. The employer may require the health care worker to document that the employer provided the preventive health care and that the reaction or side effects arising from the preventive health care resulted in lost work time, health care costs, or other costs normally compensable under workers’ compensation.
+
+(b) The benefits of this section shall not be provided to a health care worker for a reaction to or side effect from health care intended to prevent the development of the human immunodeficiency virus if the worker claims a work-related exposure and if the worker tests positive within 48 hours of that exposure to a test to determine the presence of the human immunodeficiency virus.
+
+(c) For purposes of this section, “health care worker” includes any person who is an employee of a provider of health care as defined in Section 56.05 of the Civil Code, and who is exposed to human blood or other bodily fluids contaminated with blood in the course of employment, including, but not limited to, a registered nurse, a licensed vocational nurse, a certified nurse aide, clinical laboratory technologist, dental hygienist, physician, janitor, and housekeeping worker. “Health care worker” does not include an employee who provides employee health services for an employer primarily engaged in a business other than providing health care.
+
+(Amended by Stats. 2013, Ch. 444, Sec. 19. (SB 138) Effective January 1, 2014.)
+
+3208.1.
+  
+
+An injury may be either: (a) “specific,” occurring as the result of one incident or exposure which causes disability or need for medical treatment; or (b) “cumulative,” occurring as repetitive mentally or physically traumatic activities extending over a period of time, the combined effect of which causes any disability or need for medical treatment. The date of a cumulative injury shall be the date determined under Section 5412.
+
+(Amended by Stats. 1973, Ch. 1024.)
+
+3208.2.
+  
+
+When disability, need for medical treatment, or death results from the combined effects of two or more injuries, either specific, cumulative, or both, all questions of fact and law shall be separately determined with respect to each such injury, including, but not limited to, the apportionment between such injuries of liability for disability benefits, the cost of medical treatment, and any death benefit.
+
+(Added by Stats. 1968, 1st Ex. Sess., Ch. 4.)
+
+3208.3.
+  
+
+(a) A psychiatric injury shall be compensable if it is a mental disorder which causes disability or need for medical treatment, and it is diagnosed pursuant to procedures promulgated under paragraph (4) of subdivision (j) of Section 139.2 or, until these procedures are promulgated, it is diagnosed using the terminology and criteria of the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders, Third Edition-Revised, or the terminology and diagnostic criteria of other psychiatric diagnostic manuals generally approved and accepted nationally by practitioners in the field of psychiatric medicine.
+
+(b) (1) In order to establish that a psychiatric injury is compensable, an employee shall demonstrate by a preponderance of the evidence that actual events of employment were predominant as to all causes combined of the psychiatric injury.
+
+(2) Notwithstanding paragraph (1), in the case of employees whose injuries resulted from being a victim of a violent act or from direct exposure to a significant violent act, the employee shall be required to demonstrate by a preponderance of the evidence that actual events of employment were a substantial cause of the injury.
+
+(3) For the purposes of this section, “substantial cause” means at least 35 to 40 percent of the causation from all sources combined.
+
+(c) It is the intent of the Legislature in enacting this section to establish a new and higher threshold of compensability for psychiatric injury under this division.
+
+(d) Notwithstanding any other provision of this division, no compensation shall be paid pursuant to this division for a psychiatric injury related to a claim against an employer unless the employee has been employed by that employer for at least six months. The six months of employment need not be continuous. This subdivision shall not apply if the psychiatric injury is caused by a sudden and extraordinary employment condition. Nothing in this subdivision shall be construed to authorize an employee, or the employee’s dependents, to bring an action at law or equity for damages against the employer for a psychiatric injury, where those rights would not exist pursuant to the exclusive remedy doctrine set forth in Section 3602 in the absence of the amendment of this section by the act adding this subdivision.
+
+(e) Where the claim for compensation is filed after notice of termination of employment or layoff, including voluntary layoff, and the claim is for an injury occurring prior to the time of notice of termination or layoff, no compensation shall be paid unless the employee demonstrates by a preponderance of the evidence that actual events of employment were predominant as to all causes combined of the psychiatric injury and one or more of the following conditions exist:
+
+(1) Sudden and extraordinary events of employment were the cause of the injury.
+
+(2) The employer has notice of the psychiatric injury under Chapter 2 (commencing with Section 5400) prior to the notice of termination or layoff.
+
+(3) The employee’s medical records existing prior to notice of termination or layoff contain evidence of treatment of the psychiatric injury.
+
+(4) Upon a finding of sexual or racial harassment by any trier of fact, whether contractual, administrative, regulatory, or judicial.
+
+(5) Evidence that the date of injury, as specified in Section 5411 or 5412, is subsequent to the date of the notice of termination or layoff, but prior to the effective date of the termination or layoff.
+
+(f) For purposes of this section, an employee provided notice pursuant to Sections 44948.5, 44949, 44951, 44955, 44955.6, 72411, 87740, and 87743 of the Education Code shall be considered to have been provided a notice of termination or layoff only upon a district’s final decision not to reemploy that person.
+
+(g) A notice of termination or layoff that is not followed within 60 days by that termination or layoff shall not be subject to the provisions of this subdivision, and this subdivision shall not apply until receipt of a later notice of termination or layoff. The issuance of frequent notices of termination or layoff to an employee shall be considered a bad faith personnel action and shall make this subdivision inapplicable to the employee.
+
+(h) No compensation under this division shall be paid by an employer for a psychiatric injury if the injury was substantially caused by a lawful, nondiscriminatory, good faith personnel action. The burden of proof shall rest with the party asserting the issue.
+
+(i) When a psychiatric injury claim is filed against an employer, and an application for adjudication of claim is filed by an employer or employee, the division shall provide the employer with information concerning psychiatric injury prevention programs.
+
+(j) An employee who is an inmate, as defined in subdivision (e) of Section 3351, or their family on behalf of an inmate, shall not be entitled to compensation for a psychiatric injury except as provided in subdivision (d) of Section 3370.
+
+(k) An employee who is a patient, as defined in subdivision (h) of Section 3351, or their family on behalf of a patient, shall not be entitled to compensation for a psychiatric injury except as provided in subdivision (d) of Section 3370.1.
+
+(Amended by Stats. 2019, Ch. 38, Sec. 32. (SB 78) Effective June 27, 2019.)
+
+3208.4.
+  
+
+In any proceeding under this division involving an injury arising out of alleged conduct that constitutes sexual harassment, sexual assault, or sexual battery, any party seeking discovery concerning sexual conduct of the applicant with any person other than the defendant, whether consensual or nonconsensual or prior or subsequent to the alleged act complained of, shall establish specific facts showing good cause for that discovery on a noticed motion to the appeals board. The motion shall not be made or considered at an ex parte hearing.
+
+The procedures set forth in Section 783 of the Evidence Code shall be followed if evidence of sexual conduct of the applicant is offered to attack his or her credibility. Opinion evidence, evidence of reputation, and evidence of specific instances of sexual conduct of the applicant with any person other than the defendant, or any of such evidence, is not admissible by the defendant to prove consent by or the absence of injury to the applicant, unless the injury alleged by the applicant is in the nature of loss of consortium.
+
+(Added by Stats. 1993, Ch. 121, Sec. 24. Effective July 16, 1993.)
+
+3209.
+  
+
+“Damages” means the recovery allowed in an action at law as contrasted with compensation.
+
+(Enacted by Stats. 1937, Ch. 90.)
+
+3209.3.
+  
+
+(a) “Physician” includes physicians and surgeons holding an M.D. or D.O. degree, psychologists, acupuncturists, optometrists, dentists, podiatrists, and chiropractic practitioners licensed by California state law and within the scope of their practice as defined by California state law.
+
+(b) “Psychologist” means a licensed psychologist with a doctoral degree in psychology, or a doctoral degree deemed equivalent for licensure by the Board of Psychology pursuant to Section 2914 of the Business and Professions Code, and who either has at least two years of clinical experience in a recognized health setting or has met the standards of the National Register of the Health Service Providers in Psychology.
+
+(c) When treatment or evaluation for an injury is provided by a psychologist, provision shall be made for appropriate medical collaboration when requested by the employer or the insurer.
+
+(d) “Acupuncturist” means a person who holds an acupuncturist’s certificate issued pursuant to Chapter 12 (commencing with Section 4925) of Division 2 of the Business and Professions Code.
+
+(e) Nothing in this section shall be construed to authorize acupuncturists to determine disability for the purposes of Article 3 (commencing with Section 4650) of Chapter 2 of Part 2, or under Section 2708 of the Unemployment Insurance Code.
+
+(Amended (as amended by Stats. 1996, Ch. 26, Sec. 1) by Stats. 1997, Ch. 98, Sec. 1. Effective January 1, 1998.)
+
+3209.4.
+  
+
+The inclusion of optometrists in Section 3209.3 does not imply any right or entitle any optometrist to represent, advertise, or hold himself out as a physician.
+
+(Added by Stats. 1947, Ch. 1404.)
+
+3209.5.
+  
+
+Medical, surgical, and hospital treatment, including nursing, medicines, medical and surgical supplies, crutches, and apparatus, includes, but is not limited to, services and supplies by physical therapists, licensed clinical social workers, chiropractic practitioners, and acupuncturists, as licensed by California state law and within the scope of their practice as defined by law.
+
+(Amended by Stats. 2022, Ch. 609, Sec. 2. (SB 1002) Effective January 1, 2023.)
+
+3209.6.
+  
+
+The inclusion of chiropractors in Sections 3209.3 and 3209.5 does not imply any right or entitle any chiropractor to represent, advertise, or hold himself out as a physician.
+
+(Added by Stats. 1945, Ch. 629.)
+
+3209.7.
+  
+
+Treatment of injuries at the expense of the employer may also include, either in addition to or in place of medical, surgical, and hospital services, as specified in Section 3209.5, any other form of therapy, treatment, or healing practice agreed upon voluntarily in writing, between the employee and his employer. Such agreement may be entered into at any time after employment and shall be in a form approved by the Department of Industrial Relations, and shall include at least the following items:
+
+(a) A description of the form of healing practice intended to be relied upon and designation of individuals and facilities qualified to administer it.
+
+(b) The employee shall not by entering into such an agreement or by selecting such therapy, treatment or healing practice, waive any rights conferred upon him by law, or forfeit any benefits to which he might otherwise be entitled.
+
+(c) The employer and the employee shall each reserve the right to terminate such agreement upon seven days written notice to the other party.
+
+No liability shall be incurred by the employer under the provisions of this section, except as provided for in Chapter 3 (commencing with Section 3600), of this part.
+
+(Added by Stats. 1970, Ch. 1250.)
+
+3209.8.
+  
+
+Treatment reasonably required to cure or relieve from the effects of an injury shall include the services of marriage and family therapists, professional clinical counselors, and clinical social workers licensed by California state law and within the scope of their practice as defined by California state law if the injured person is referred to the marriage and family therapist, the professional clinical counselor, or the clinical social worker by a licensed physician and surgeon, with the approval of the employer, for treatment of a condition arising out of the injury. This section does not authorize marriage and family therapists, professional clinical counselors, or clinical social workers to determine disability for the purposes of Article 3 (commencing with Section 4650) of Chapter 2 of Part 2. The requirement of this section that the employer approve the referral by a licensed physician or surgeon shall not be construed to preclude reimbursement for self-procured treatment, found by the appeals board to be otherwise compensable pursuant to this division, if the employer has refused to authorize any treatment for the condition arising from the injury treated by the marriage and family therapist, professional clinical counselor, or clinical social worker.
+
+(Amended by Stats. 2018, Ch. 389, Sec. 18. (AB 2296) Effective January 1, 2019.)
+
+3209.9.
+  
+
+The inclusion of acupuncturists in Section 3209.3 does not imply any right or entitle any acupuncturist to represent, advertise, or hold himself or herself out as a physician or surgeon holding an M.D. or D.O. degree.
+
+(Added by Stats. 1997, Ch. 98, Sec. 3. Effective January 1, 1998.)
+
+3209.10.
+  
+
+(a) Medical treatment of a work-related injury required to cure or relieve the effects of the injury may be provided by a state licensed physician assistant or nurse practitioner, acting under the review or supervision of a physician and surgeon pursuant to standardized procedures or protocols within their lawfully authorized scope of practice. The reviewing or supervising physician and surgeon of the physician assistant or nurse practitioner shall be deemed to be the treating physician. For the purposes of this section, “medical treatment” includes the authority of the nurse practitioner or physician assistant to authorize the patient to receive time off from work for a period not to exceed three calendar days if that authority is included in a standardized procedure or protocol approved by the supervising physician. The nurse practitioner or physician assistant may cosign the Doctor’s First Report of Occupational Injury or Illness. The treating physician shall make any determination of temporary disability and shall sign the report.
+
+(b) The provision of subdivision (a) that requires the cosignature of the treating physician applies to this section only and it is not the intent of the Legislature that the requirement apply to any other section of law or to any other statute or regulation. Nothing in this section implies that a nurse practitioner or physician assistant is a physician as defined in Section 3209.3.
+
+(Amended by Stats. 2004, Ch. 100, Sec. 1. Effective January 1, 2005.)
+
+3209.11.
+  
+
+(a) An employer, workers’ compensation insurer, self-insured employer, or agent of an employer, insurer, or self-insured employer may provide an employee with access to the services of a licensed clinical social worker acting within their scope of practice.
+
+(b) Medical provider networks may add licensed clinical social workers to the physician providers listing in the networks established or modified pursuant to Section 4616.
+
+(c) For purposes of this section, “licensed clinical social worker” means a licensed clinical social worker with a master’s degree in clinical social work, or a degree deemed equivalent for licensure by the Board of Behavioral Sciences pursuant to Article 4 (commencing with Section 4996) of Chapter 14 of Division 2 of the Business and Professions Code, and who either has at least two years of clinical experience in a recognized health setting or has met the standards of the Association of Social Work Boards.
+
+(d) This section does not authorize licensed clinical social workers to determine disability for the purposes of Article 3 (commencing with Section 4650) of Chapter 2 of Part 2, or under Section 2708 of the Unemployment Insurance Code.
+
+(e) This section authorizes a licensed clinical social worker to treat or evaluate an injured worker only upon referral from a physician as defined in Section 3209.3.
+
+(Added by Stats. 2022, Ch. 609, Sec. 3. (SB 1002) Effective January 1, 2023.)
+
+3210.
+  
+
+“Person” includes an individual, firm, voluntary association, or a public, quasi public, or private corporation.
+
+(Enacted by Stats. 1937, Ch. 90.)
+
+3211.
+  
+
+“Insurer” includes the State Compensation Insurance Fund and any private company, corporation, mutual association, reciprocal or interinsurance exchange authorized under the laws of this State to insure employers against liability for compensation and any employer to whom a certificate of consent to self-insure has been issued.
+
+(Enacted by Stats. 1937, Ch. 90.)
+
+3211.5.
+  
+
+For purposes of this division, whenever the term “firefighter,” “firefighting member,” and “member of a fire department” is used, the term shall include, but shall not be limited to, unless the context expressly provides otherwise, a person engaged in providing firefighting services who is an apprentice, volunteer, or employee on a partly paid or fully paid basis.
+
+(Added by Stats. 2002, Ch. 870, Sec. 2. Effective January 1, 2003.)
+
+3211.9.
+  
+
+“Disaster council” means a public agency established by ordinance which is empowered to register and direct the activities of disaster service workers within the area of the county, city, city and county, or any part thereof, and is thus, because of such registration and direction, acting as an instrumentality of the state in aid of the carrying out of the general governmental functions and policy of the state.
+
+(Amended by Stats. 1971, Ch. 38.)
+
+3211.91.
+  
+
+“Accredited disaster council” means a disaster council that is certified by the Office of Emergency Services as conforming with the rules and regulations established by the office pursuant to Article 10 (commencing with Section 8610) of Chapter 7 of Division 1 of Title 2 of the Government Code. A disaster council remains accredited only while the certification of the Office of Emergency Services is in effect and is not revoked.
+
+(Amended by Stats. 2013, Ch. 352, Sec. 400. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)
+
+3211.92.
+  
+
+(a) “Disaster service worker” means any natural person who is registered with an accredited disaster council or a state agency for the purpose of engaging in disaster service pursuant to the California Emergency Services Act without pay or other consideration.
+
+(b) “Disaster service worker” includes public employees performing disaster work that is outside the course and scope of their regular employment without pay and also includes any unregistered person impressed into service during a state of war emergency, a state of emergency, or a local emergency by a person having authority to command the aid of citizens in the execution of his or her duties.
+
+(c) Persons registered with a disaster council at the time that council becomes accredited need not reregister in order to be entitled to the benefits provided by Chapter 10 (commencing with Section 4351).
+
+(d) “Disaster service worker” does not include any member registered as an active firefighting member of any regularly organized volunteer fire department, having official recognition, and full or partial support of the county, city, or district in which the fire department is located.
+
+(Amended by Stats. 2000, Ch. 506, Sec. 33. Effective January 1, 2001.)
+
+3211.93.
+  
+
+“Disaster service” means all activities authorized by and carried on pursuant to the California Emergency Services Act, including training necessary or proper to engage in such activities.
+
+(Amended by Stats. 1971, Ch. 438.)
+
+3211.93a.
+  
+
+“Disaster service” does not include any activities or functions performed by a person if the accredited disaster council with which that person is registered receives a fee or other compensation for the performance of those activities or functions by that person.
+
+(Amended by Stats. 2000, Ch. 506, Sec. 34. Effective January 1, 2001.)
+
+3212.
+  
+
+(a) (1) In the case of members of a sheriff’s office or the California Highway Patrol, district attorney’s staff of inspectors and investigators or of police or fire departments of cities, counties, cities and counties, districts or other public or municipal corporations or political subdivisions, whether those members are volunteer, partly paid, or fully paid, and in the case of active firefighting members of the Department of Forestry and Fire Protection whose duties require firefighting or of any county forestry or firefighting department or unit, whether voluntary, fully paid, or partly paid, and in the case of members of the warden service of the Wildlife Protection Branch of the Department of Fish and Game whose principal duties consist of active law enforcement service, excepting those whose principal duties are clerical or otherwise do not clearly fall within the scope of active law enforcement service such as stenographers, telephone operators, and other officeworkers, the term “injury” as used in this act includes hernia when any part of the hernia develops or manifests itself during a period while the member is in the service in the office, staff, division, department, or unit, and in the case of members of fire departments, except those whose principal duties are clerical, such as stenographers, telephone operators, and other officeworkers, and in the case of county forestry or firefighting departments, except those whose principal duties are clerical, such as stenographers, telephone operators, and other officeworkers, and in the case of active firefighting members of the Department of Forestry and Fire Protection whose duties require firefighting, and in the case of members of the warden service of the Wildlife Protection Branch of the Department of Fish and Game whose principal duties consist of active law enforcement service, excepting those whose principal duties are clerical or otherwise do not clearly fall within the scope of active law enforcement service such as stenographers, telephone operators, and other officeworkers, the term “injury” includes pneumonia and heart trouble that develops or manifests itself during a period while the member is in the service of the office, staff, department, or unit. In the case of regular salaried county or city and county peace officers, the term “injury” also includes any hernia that manifests itself or develops during a period while the officer is in the service. The compensation that is awarded for the hernia, heart trouble, or pneumonia shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits, as provided by the workers’ compensation laws of this state.
+
+(2) The hernia, heart trouble, or pneumonia so developing or manifesting itself in those cases shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. The presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(3) The hernia, heart trouble, or pneumonia so developing or manifesting itself in those cases shall in no case be attributed to any disease existing prior to that development or manifestation.
+
+(b) This section also applies to all of the following, for injuries occurring on or after January 1, 2026:
+
+(1) Active firefighting members of a fire department that serves a United States Department of Defense installation and who are certified by the United States Department of Defense as meeting its standards for firefighters.
+
+(2) Active firefighting members of a fire department that serves a National Aeronautics and Space Administration installation and who adhere to training standards established in accordance with Article 4 (commencing with Section 13155) of Chapter 1 of Part 2 of Division 12 of the Health and Safety Code.
+
+(3) Active firefighting members of a fire department that provides fire protection to a commercial airport regulated by the Federal Aviation Administration (FAA) under Part 139 (commencing with Section 139.1) of Subchapter G of Chapter I of Title 14 of the Federal Code of Regulations and are trained and certified by the State Fire Marshal as meeting the standards of Fire Control 5 and Section 139.319 of Title 14 of the Federal Code of Regulations.
+
+(Amended by Stats. 2025, Ch. 404, Sec. 1. (SB 230) Effective January 1, 2026.)
+
+3212.1.
+  
+
+(a) This section applies to all of the following:
+
+(1) Active firefighting members, whether volunteers, partly paid, or fully paid, of all of the following fire departments:
+
+(A) A fire department of a city, county, city and county, district, or other public or municipal corporation or political subdivision.
+
+(B) A fire department of the University of California and the California State University.
+
+(C) The Department of Forestry and Fire Protection.
+
+(D) A county forestry or firefighting department or unit.
+
+(2) Active firefighting members of a fire department that serves a United States Department of Defense installation and who are certified by the Department of Defense as meeting its standards for firefighters.
+
+(3) Active firefighting members of a fire department that serves a National Aeronautics and Space Administration installation and who adhere to training standards established in accordance with Article 4 (commencing with Section 13155) of Chapter 1 of Part 2 of Division 12 of the Health and Safety Code.
+
+(4) Active firefighting members of a fire department that provides fire protection to a commercial airport regulated by the Federal Aviation Administration (FAA) under Part 139 (commencing with Section 139.1) of Subchapter G of Chapter I of Title 14 of the Federal Code of Regulations and are trained and certified by the State Fire Marshal as meeting the standards of Fire Control 5 and Section 139.319 of Title 14 of the Federal Code of Regulations for injuries occurring on or after January 1, 2026.
+
+(5) Peace officers, as defined in Section 830.1, subdivision (a) of Section 830.2, and subdivisions (a) and (b) of Section 830.37, of the Penal Code, who are primarily engaged in active law enforcement activities.
+
+(6) (A) Fire and rescue services coordinators who work for the Office of Emergency Services.
+
+(B) For purposes of this paragraph, “fire and rescue services coordinators” means coordinators with any of the following job classifications: coordinator, senior coordinator, or chief coordinator.
+
+(b) The term “injury,” as used in this division, includes cancer, including leukemia, that develops or manifests itself during a period in which any member described in subdivision (a) is in the service of the department or unit, if the member demonstrates that they were exposed, while in the service of the department or unit, to a known carcinogen as defined by the International Agency for Research on Cancer, or as defined by the director.
+
+(c) The compensation that is awarded for cancer shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits, as provided by this division.
+
+(d) The cancer so developing or manifesting itself in these cases shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by evidence that the primary site of the cancer has been established and that the carcinogen to which the member has demonstrated exposure is not reasonably linked to the disabling cancer. Unless so controverted, the appeals board is bound to find in accordance with the presumption. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 120 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(e) The amendments to this section enacted during the 1999 portion of the 1999–2000 Regular Session shall be applied to claims for benefits filed or pending on or after January 1, 1997, including, but not limited to, claims for benefits filed on or after that date that have previously been denied, or that are being appealed following denial.
+
+(f) This section shall be known, and may be cited, as the William Dallas Jones Cancer Presumption Act of 2010.
+
+(Amended by Stats. 2025, Ch. 404, Sec. 2. (SB 230) Effective January 1, 2026.)
+
+3212.15.
+  
+
+(a) This section applies to all of the following:
+
+(1) Active firefighting members, whether volunteers, partly paid, or fully paid, of all of the following fire departments:
+
+(A) A fire department of a city, county, city and county, district, or other public or municipal corporation or political subdivision.
+
+(B) A fire department of the University of California and the California State University.
+
+(C) The Department of Forestry and Fire Protection.
+
+(D) A county forestry or firefighting department or unit.
+
+(2) Active firefighting members of a fire department that serves a United States Department of Defense installation and who are certified by the Department of Defense as meeting its standards for firefighters.
+
+(3) Active firefighting members of a fire department that serves a National Aeronautics and Space Administration installation and who adhere to training standards established in accordance with Article 4 (commencing with Section 13155) of Chapter 1 of Part 2 of Division 12 of the Health and Safety Code.
+
+(4) Active firefighting members of a fire department that provides fire protection to a commercial airport regulated by the Federal Aviation Administration (FAA) under Part 139 (commencing with Section 139.1) of Subchapter G of Chapter I of Title 14 of the Federal Code of Regulations and are trained and certified by the State Fire Marshal as meeting the standards of Fire Control 5 and Section 139.319 of Title 14 of the Federal Code of Regulations for injuries occurring on or after January 1, 2026.
+
+(5) Peace officers, as defined in Section 830.1 of, subdivisions (a), (b), and (c) of Section 830.2 of, Section 830.32 of, subdivisions (a) and (b) of Section 830.37 of, Section 830.5 of, and Section 830.55 of, the Penal Code, who are primarily engaged in active law enforcement activities.
+
+(6) (A) Fire and rescue services coordinators who work for the Office of Emergency Services.
+
+(B) For purposes of this paragraph, “fire and rescue services coordinators” means coordinators with any of the following job classifications: coordinator, senior coordinator, or chief coordinator.
+
+(b) In the case of a person described in subdivision (a), the term “injury,” as used in this division, includes “post-traumatic stress disorder,” as diagnosed according to the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association and that develops or manifests itself during a period in which any person described in subdivision (a) is in the service of the department, unit, office, or agency.
+
+(c) For an injury that is diagnosed as specified in subdivision (b):
+
+(1) The compensation that is awarded shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits, as provided by this division.
+
+(2) The injury so developing or manifesting itself in these cases shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with the presumption. This presumption shall be extended to a person described in subdivision (a) following termination of service for a period of 3 calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(d) Compensation shall not be paid pursuant to this section for a claim of injury unless the person has performed services for the department, unit, office, or agency for at least six months. The six months of employment need not be continuous. This subdivision does not apply if the injury is caused by a sudden and extraordinary employment condition.
+
+(e) This section, as added by Section 2 of Chapter 390 of the Statutes of 2019, applies to injuries occurring on or after January 1, 2020.
+
+(f) (1) The Commission on Health and Safety and Workers’ Compensation shall submit a report to the Legislature analyzing the effectiveness of the presumption created by this section. The report shall review data from post-traumatic stress disorder injuries for which compensation is claimed under this section from January 1, 2020, through December 31, 2025. The report shall be provided to the Senate Committee on Labor, Public Employment and Retirement and the Assembly Committee on Insurance no later than January 1, 2027.
+
+(2) The Commission on Health and Safety and Workers’ Compensation shall submit a report to the Legislature analyzing claims filed for post-traumatic stress disorder injury for which compensation is claimed by public safety dispatchers, public safety telecommunicators, and emergency response communication employees, from January 1, 2020, through December 31, 2023. The study shall review data, including, but not limited to, the total number of claims, frequency of claim acceptance, frequency of claim denial, the initial claim determination, and the average time between the filing of a claim and the final determination of compensability. The report shall be provided to the Senate Committee on Labor, Public Employment and Retirement and the Assembly Committee on Insurance no later than January 1, 2025. For purposes of this subdivision, a “public safety dispatcher,” “public safety telecommunicator,” or “emergency response communication employee” means an individual employed by a public safety agency whose primary responsibility is to receive, process, transmit, or dispatch emergency and nonemergency calls for law enforcement, fire, emergency medical, and other public safety services by telephone, radio, or other communication device, and includes an individual who supervises other individuals who perform these functions.
+
+(3) A report submitted pursuant to this subdivision shall be submitted in compliance with Section 9795 of the Government Code.
+
+(g) This section shall remain in effect only until January 1, 2029, and as of that date is repealed.
+
+(Amended by Stats. 2025, Ch. 404, Sec. 3. (SB 230) Effective January 1, 2026. Repealed as of January 1, 2029, by its own provisions.)
+
+3212.2.
+  
+
+(a) For an officer and employee in the Department of Corrections and Rehabilitation having custodial duties and for a peace officer, as defined in Section 830.38 of the Penal Code, employed by the State Department of State Hospitals, the term “injury” includes heart trouble that develops or manifests itself during a period while such officer or employee is in the service of such department or hospital.
+
+(b) The compensation that is awarded for heart trouble includes full hospital, surgical, medical treatment, disability indemnity, and death benefits, as provided by the workers’ compensation laws of this state.
+
+(c) The heart trouble so developing or manifesting itself in these cases shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(Amended by Stats. 2025, Ch. 291, Sec. 1. (AB 1125) Effective January 1, 2026.)
+
+3212.3.
+  
+
+In the case of a peace officer who is designated under subdivision (a) of Section 2250.1 of the Vehicle Code and who has graduated from an academy certified by the Commission on Peace Officer Standards and Training, when that officer is employed upon a regular, full-time salary, the term “injury,” as used in this division, includes heart trouble and pneumonia which develops or manifests itself during a period while that officer is in the service of the Department of the California Highway Patrol. The compensation which is awarded for the heart trouble or pneumonia shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by this division.
+
+The heart trouble or pneumonia so developing or manifesting itself shall be presumed to arise out of and in the course of the employment. However, a peace officer of the Department of the California Highway Patrol, as designated under subdivision (a) of Section 2250.1 of the Vehicle Code, shall have served five years or more in that capacity or as a peace officer with the former California State Police Division, or in both capacities, before the presumption shall arise as to the compensability of heart trouble so developing or manifesting itself. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+The heart trouble or pneumonia so developing or manifesting itself in these cases shall in no case be attributed to any disease existing prior to that development or manifestation.
+
+The term “peace officers” as used herein shall be limited to those employees of the Department of the California Highway Patrol who are designated as peace officers under subdivision (a) of Section 2250.1 of the Vehicle Code.
+
+(Amended by Stats. 1996, Ch. 305, Sec. 41. Effective January 1, 1997.)
+
+3212.4.
+  
+
+In the case of a member of a University of California fire department located at a campus or other facility administered by the Regents of University of California, when any such member is employed by such a department upon a regular, full-time salary, on a nonprobationary basis, the term “injury” as used in this division includes heart trouble, hernia, or pneumonia which develops or manifests itself during a period while such member is in the service of such a University of California fire department. The compensation which is awarded for such heart trouble, hernia, or pneumonia shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+Such heart trouble, hernia, or pneumonia so developing or manifesting itself shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+Such heart trouble, hernia, or pneumonia so developing or manifesting itself in such cases shall in no case be attributed to any disease existing prior to such development or manifestation.
+
+The term “member” as used herein shall exclude those employees of a University of California fire department whose principal duties are those of a telephone operator, clerk, stenographer, machinist, mechanic, or otherwise, and whose functions do not clearly fall within the scope of active firefighting and prevention service.
+
+(Amended by Stats. 1976, Ch. 466.)
+
+3212.5.
+  
+
+In the case of a member of a police department of a city or municipality, or a member of the State Highway Patrol, when any such member is employed upon a regular, full-time salary, and in the case of a sheriff or deputy sheriff, or an inspector or investigator in a district attorney’s office of any county, employed upon a regular, full-time salary, the term “injury” as used in this division includes heart trouble and pneumonia which develops or manifests itself during a period while such member, sheriff, or deputy sheriff, inspector or investigator is in the service of the police department, the State Highway Patrol, the sheriff’s office or the district attorney’s office, as the case may be. The compensation which is awarded for such heart trouble or pneumonia shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+Such heart trouble or pneumonia so developing or manifesting itself shall be presumed to arise out of and in the course of the employment; provided, however, that the member of the police department, State Highway Patrol, the sheriff or deputy sheriff, or an inspector or investigator in a district attorney’s office of any county shall have served five years or more in such capacity before the presumption shall arise as to the compensability of heart trouble so developing or manifesting itself. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+Such heart trouble or pneumonia so developing or manifesting itself in such cases shall in no case be attributed to any disease existing prior to such development or manifestation.
+
+The term “members” as used herein shall be limited to those employees of police departments, the California Highway Patrol and sheriffs’ departments and inspectors and investigators of a district attorney’s office who are defined as peace officers in Section 830.1, 830.2, or 830.3 of the Penal Code.
+
+(Amended by Stats. 1976, Ch. 466.)
+
+3212.6.
+  
+
+(a) (1) In the case of a member of a police department of a city or county, or a member of the sheriff’s office of a county, or a member of the California Highway Patrol, or an inspector or investigator in a district attorney’s office of any county whose principal duties consist of active law enforcement service, or a prison or jail guard or correctional officer who is employed by a public agency, when that person is employed upon a regular, full-time salary, or in the case of members of fire departments of any city, county, or district, or other public or municipal corporations or political subdivisions, when those members are employed on a regular fully paid basis, and in the case of active firefighting members of the Department of Forestry and Fire Protection whose duties require firefighting and first-aid response services, or of any county forestry or firefighting department or unit, where those members are employed on a regular fully paid basis, excepting those whose principal duties are clerical or otherwise do not clearly fall within the scope of active law enforcement, firefighting, or emergency first-aid response service such as stenographers, telephone operators, and other officeworkers, the term “injury” includes tuberculosis that develops or manifests itself during a period while that member is in the service of that department or office. The compensation that is awarded for the tuberculosis shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+(2) The tuberculosis so developing or manifesting itself shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(3) A public entity may require applicants for employment in firefighting positions who would be entitled to the benefits granted by this section to be tested for infection for tuberculosis.
+
+(b) This section also applies to all of the following, for injuries occurring on or after January 1, 2026:
+
+(1) Active firefighting members of a fire department that serves a United States Department of Defense installation and who are certified by the United States Department of Defense as meeting its standards for firefighters.
+
+(2) Active firefighting members of a fire department that serves a National Aeronautics and Space Administration installation and who adhere to training standards established in accordance with Article 4 (commencing with Section 13155) of Chapter 1 of Part 2 of Division 12 of the Health and Safety Code.
+
+(3) Active firefighting members of a fire department that provides fire protection to a commercial airport regulated by the Federal Aviation Administration (FAA) under Part 139 (commencing with Section 139.1) of Subchapter G of Chapter I of Title 14 of the Federal Code of Regulations and are trained and certified by the State Fire Marshal as meeting the standards of Fire Control 5 and Section 139.319 of Title 14 of the Federal Code of Regulations.
+
+(Amended by Stats. 2025, Ch. 404, Sec. 4. (SB 230) Effective January 1, 2026.)
+
+3212.7.
+  
+
+In the case of an employee in the Department of Justice falling within the “state safety” class, when any such individual is employed under civil service upon a regular, full-time salary, the term “injury,” as used in this division, includes heart trouble or hernia or pneumonia or tuberculosis which develops or manifests itself during the period while such individual is in the service of the Department of Justice. The compensation which is awarded for any such injury shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+Such heart trouble, hernia, pneumonia, or tuberculosis so developing or manifesting itself shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+Such heart trouble, hernia, pneumonia, or tuberculosis developing or manifesting itself in such cases shall in no case be attributed to any disease existing prior to such development or manifestation.
+
+(Amended by Stats. 1976, Ch. 466.)
+
+3212.8.
+  
+
+(a) In the case of members of a sheriff’s office, of police or fire departments of cities, counties, cities and counties, districts, or other public or municipal corporations or political subdivisions, or individuals described in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, whether those persons are volunteer, partly paid, or fully paid, and in the case of active firefighting members of the Department of Forestry and Fire Protection, or of any county forestry or firefighting department or unit, whether voluntary, fully paid, or partly paid, excepting those whose principal duties are clerical or otherwise do not clearly fall within the scope of active law enforcement service or active firefighting services, such as stenographers, telephone operators, and other officeworkers, the term “injury” as used in this division, includes a blood-borne infectious disease or methicillin-resistant Staphylococcus aureus skin infection when any part of the blood-borne infectious disease or methicillin-resistant Staphylococcus aureus skin infection develops or manifests itself during a period while that person is in the service of that office, staff, division, department, or unit. The compensation that is awarded for a blood-borne infectious disease or methicillin-resistant Staphylococcus aureus skin infection shall include, but not be limited to, full hospital, surgical, medical treatment, disability indemnity, and death benefits, as provided by the workers’ compensation laws of this state.
+
+(b) (1) The blood-borne infectious disease or methicillin-resistant Staphylococcus aureus skin infection so developing or manifesting itself in those cases shall be presumed to arise out of and in the course of the employment or service. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it.
+
+(2) The blood-borne infectious disease presumption shall be extended to a person covered by subdivision (a) following termination of service for a period of three calendar months for each full year of service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(3) Notwithstanding paragraph (2), the methicillin-resistant Staphylococcus aureus skin infection presumption shall be extended to a person covered by subdivision (a) following termination of service for a period of 90 days, commencing with the last day actually worked in the specified capacity.
+
+(c) The blood-borne infectious disease or methicillin-resistant Staphylococcus aureus skin infection so developing or manifesting itself in those cases shall in no case be attributed to any disease or skin infection existing prior to that development or manifestation.
+
+(d) For the purposes of this section, “blood-borne infectious disease” means a disease caused by exposure to pathogenic microorganisms that are present in human blood that can cause disease in humans, including those pathogenic microorganisms defined as blood-borne pathogens by the Department of Industrial Relations.
+
+(e) This section also applies to all of the following, for injuries occurring on or after January 1, 2026:
+
+(1) Active firefighting members of a fire department that serves a United States Department of Defense installation and who are certified by the United States Department of Defense as meeting its standards for firefighters.
+
+(2) Active firefighting members of a fire department that serves a National Aeronautics and Space Administration installation and who adhere to training standards established in accordance with Article 4 (commencing with Section 13155) of Chapter 1 of Part 2 of Division 12 of the Health and Safety Code.
+
+(3) Active firefighting members of a fire department that provides fire protection to a commercial airport regulated by the Federal Aviation Administration (FAA) under Part 139 (commencing with Section 139.1) of Subchapter G of Chapter I of Title 14 of the Federal Code of Regulations and are trained and certified by the State Fire Marshal as meeting the standards of Fire Control 5 and Section 139.319 of Title 14 of the Federal Code of Regulations.
+
+(Amended by Stats. 2025, Ch. 404, Sec. 5. (SB 230) Effective January 1, 2026.)
+
+3212.85.
+  
+
+(a) This section applies to peace officers described in Sections 830.1 to 830.5, inclusive, of the Penal Code, and members of a fire department.
+
+(b) The term “injury,” as used in this division, includes illness or resulting death due to exposure to a biochemical substance that develops or occurs during a period in which any member described in subdivision (a) is in the service of the department or unit.
+
+(c) The compensation that is awarded for injury pursuant to this section shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits, as provided by this division.
+
+(d) The injury that develops or manifests itself in these cases shall be presumed to arise out of, and in the course of, the employment. This presumption is disputable and may be controverted by other evidence. Unless controverted, the appeals board is bound to find in accordance with the presumption. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(e) For purposes of this section, the following definitions apply:
+
+(1) “Biochemical substance” means any biological or chemical agent that may be used as a weapon of mass destruction, including, but not limited to, any chemical warfare agent, weaponized biological agent, or nuclear or radiological agent, as these terms are defined in Section 11417 of the Penal Code.
+
+(2) “Members of a fire department” includes, but is not limited to, an apprentice, volunteer, partly paid, or fully paid member of any of the following:
+
+(A) A fire department of a city, county, city and county, district, or other public or municipal corporation or political subdivision.
+
+(B) A fire department of the University of California and the California State University.
+
+(C) The Department of Forestry and Fire Protection.
+
+(D) A county forestry or firefighting department or unit.
+
+(E) Active firefighting members of a fire department that serves a United States Department of Defense installation and who are certified by the United States Department of Defense as meeting its standards for firefighters for injuries occurring on or after January 1, 2026.
+
+(F) Active firefighting members of a fire department that serves a National Aeronautics and Space Administration installation and who adhere to training standards established in accordance with Article 4 (commencing with Section 13155) of Chapter 1 of Part 2 of Division 12 of the Health and Safety Code for injuries occurring on or after January 1, 2026.
+
+(G) Active firefighting members of a fire department that provides fire protection to a commercial airport regulated by the Federal Aviation Administration (FAA) under Part 139 (commencing with Section 139.1) of Subchapter G of Chapter I of Title 14 of the Federal Code of Regulations and are trained and certified by the State Fire Marshal as meeting the standards of Fire Control 5 and Section 139.319 of Title 14 of the Code of Federal Regulations for injuries occurring on or after January 1, 2026.
+
+(Amended by Stats. 2025, Ch. 404, Sec. 6. (SB 230) Effective January 1, 2026.)
+
+3212.9.
+  
+
+(a) (1) In the case of a member of a police department of a city, county, or city and county, or a member of the sheriff’s office of a county, or a member of the California Highway Patrol, or a county probation officer, or an inspector or investigator in a district attorney’s office of any county whose principal duties consist of active law enforcement service, when that person is employed on a regular, full-time salary, or in the case of a member of a fire department of any city, county, or district, or other public or municipal corporation or political subdivision, or any county forestry or firefighting department or unit, when those members are employed on a regular full-time salary, excepting those whose principal duties are clerical or otherwise do not clearly fall within the scope of active law enforcement or firefighting, such as stenographers, telephone operators, and other officeworkers, the term “injury” includes meningitis that develops or manifests itself during a period while that person is in the service of that department, office, or unit. The compensation that is awarded for the meningitis shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+(2) The meningitis so developing or manifesting itself shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a person following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(b) This section also applies to all of the following, for injuries occurring on or after January 1, 2026:
+
+(1) Active firefighting members of a fire department that serves a United States Department of Defense installation and who are certified by the United States Department of Defense as meeting its standards for firefighters.
+
+(2) Active firefighting members of a fire department that serves a National Aeronautics and Space Administration installation and who adhere to training standards established in accordance with Article 4 (commencing with Section 13155) of Chapter 1 of Part 2 of Division 12 of the Health and Safety Code.
+
+(3) Active firefighting members of a fire department that provides fire protection to a commercial airport regulated by the Federal Aviation Administration (FAA) under Part 139 (commencing with Section 139.1) of Subchapter G of Chapter I of Title 14 of the Federal Code of Regulations and are trained and certified by the State Fire Marshal as meeting the standards of Fire Control 5 and Section 139.319 of Title 14 of the Federal Code of Regulations.
+
+(Amended by Stats. 2025, Ch. 404, Sec. 7. (SB 230) Effective January 1, 2026.)
+
+3212.10.
+  
+
+In the case of a peace officer of the Department of Corrections who has custodial or supervisory duties of inmates or parolees, or a peace officer of the Department of the Youth Authority who has custodial or supervisory duties of wards or parolees, or a peace officer as defined in Section 830.5 of the Penal Code and employed by a local agency, the term “injury” as used in this division includes heart trouble, pneumonia, tuberculosis, and meningitis that develops or manifests itself during a period in which any peace officer covered under this section is in the service of the department or unit. The compensation that is awarded for that injury shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+The heart trouble, pneumonia, tuberculosis, and meningitis so developing or manifesting itself shall be presumed to arise out of and in the course of employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(Amended by Stats. 2002, Ch. 664, Sec. 165. Effective January 1, 2003.)
+
+3212.11.
+  
+
+This section applies to both of the following: (a) active lifeguards employed by a city, county, city and county, district, or other public or municipal corporation or political subdivision, and (b) active state lifeguards employed by the Department of Parks and Recreation. The term “injury,” as used in this division, includes skin cancer that develops or manifests itself during the period of the lifeguard’s employment. The compensation awarded for that injury shall include full hospital, surgical, and medical treatment, disability indemnity, and death benefits, as provided by the provisions of this division.
+
+Skin cancer so developing or manifesting itself shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board shall find in accordance with it. This presumption shall be extended to a lifeguard following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+Skin cancer so developing or manifesting itself in these cases shall not be attributed to any disease existing prior to that development or manifestation.
+
+This section shall only apply to lifeguards employed for more than three consecutive months in a calendar year.
+
+(Added by Stats. 2001, Ch. 846, Sec. 1. Effective January 1, 2002.)
+
+3212.12.
+  
+
+(a) This section applies to peace officers, as defined in subdivision (b) of Section 830.1 of the Penal Code, subdivisions (e), (f), and (g) of Section 830.2 of the Penal Code, and corpsmembers, as defined by Section 14302 of the Public Resources Code, and other employees at the California Conservation Corps classified as any of the following:
+
+Title
+
+	
+
+Class
+
+
+
+
+Backcounty Trails Camp Supervisor,
+
+California Conservation Corps ........................
+
+	
+
+
+1030
+
+
+
+
+Conservationist I, California
+
+Conservation Corps ........................
+
+	
+
+
+1029
+
+
+
+
+Conservationist II, California
+
+Conservation Corps ........................
+
+	
+
+
+1003
+
+
+
+
+Conservationist II, Nursery
+
+California Conservation Corps ........................
+
+	
+
+
+7370
+
+(b) The term “injury,” as used in this division, includes Lyme disease that develops or manifests itself during a period in which any person described in subdivision (a) is in the service of the department.
+
+(c) The compensation that is awarded for Lyme disease shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits, as provided by this division.
+
+(d) Lyme disease so developing or manifesting itself in these cases shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by evidence that the Lyme disease is not reasonably linked to the work performance. Unless so controverted, the appeals board shall find in accordance with the presumption. This presumption shall be extended to a person described in subdivision (a) following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(Added by Stats. 2002, Ch. 876, Sec. 1. Effective January 1, 2003.)
+
+3213.
+  
+
+In the case of a member of the University of California Police Department who has graduated from an academy certified by the Commission on Peace Officer Standards and Training, when he and all members of the campus department of which he is a member have graduated from such an academy, and when any such member is employed upon a regular, full-time salary, the term “injury” as used in this division includes heart trouble and pneumonia which develops or manifests itself during a period while such member is in the service of such campus department of the University of California Police Department. The compensation which is awarded for such heart trouble or pneumonia shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+Such heart trouble or pneumonia so developing or manifesting itself shall be presumed to arise out of and in the course of the employment; provided, however, that the member of the University of California Police Department shall have served five years or more in such capacity before the presumption shall arise as to the compensability of heart trouble so developing or manifesting itself. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a member following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+Such heart trouble or pneumonia so developing or manifesting itself in such cases shall in no case be attributed to any disease existing prior to such development or manifestation.
+
+As used in this section:
+
+(a) “Members” shall be limited to those employees of the University of California Police Department who are defined as peace officers in Section 830.2 of the Penal Code.
+
+(b) “Campus” shall include any campus or other installation maintained under the jurisdiction of the Regents of the University of California.
+
+(c) “Campus department” means all members of the University of California Police Department who are assigned and serve on a particular campus.
+
+(Amended by Stats. 1976, Ch. 466.)
+
+3213.2.
+  
+
+(a) In the case of a member of a police department of a city, county, or city and county, or a member of the sheriff’s office of a county, or a peace officer employed by the Department of the California Highway Patrol, or a peace officer employed by the University of California, who has been employed for at least five years as a peace officer on a regular, full-time salary and has been required to wear a duty belt as a condition of employment, the term “injury,” as used in this division, includes lower back impairments. The compensation that is awarded for lower back impairments shall include full hospital, surgical, medical treatment, disability indemnity, and death benefits as provided by the provisions of this division.
+
+(b) The lower back impairment so developing or manifesting itself in the peace officer shall be presumed to arise out of and in the course of the employment. This presumption is disputable and may be controverted by other evidence, but unless so controverted, the appeals board is bound to find in accordance with it. This presumption shall be extended to a person following termination of service for a period of three calendar months for each full year of the requisite service, but not to exceed 60 months in any circumstance, commencing with the last date actually worked in the specified capacity.
+
+(c) For purposes of this section, “duty belt” means a belt used for the purpose of holding a gun, handcuffs, baton, and other items related to law enforcement.
+
+(Added by Stats. 2001, Ch. 834, Sec. 1. Effective January 1, 2002.)
+
+3214.
+  
+
+(a) The Department of Corrections and the Department of the Youth Authority shall, in conjunction with all recognized employee representative associations, develop policy and implement the workers’ compensation early intervention program by December 31, 1989, for all department employees who sustain an injury. The program shall include, but not be limited to, counseling by an authorized independent early intervention counselor and the services of an agreed medical panel to assist in timely decisions regarding compensability. Costs of services through early intervention shall be borne by the departments.
+
+(b) It is the intent of the Legislature to reduce all costs associated with the delivery of workers’ compensation benefits, in balance with the need to ensure timely and adequate benefits to the injured worker. Toward this goal the workers’ compensation early intervention program was established in the Department of Corrections and the Department of the Youth Authority. The fundamental concept of the program is to settle disputes rather than to litigate them. This is a worthwhile concept in terms of cost control for the employer and timely receipt of benefits for the worker. To ascertain the effectiveness of the program is crucial in helping guide policy in this arena.
+
+(Amended by Stats. 2001, Ch. 745, Sec. 157. Effective October 12, 2001.)
+
+3215.
+  
+
+Except as otherwise permitted by law, any person acting individually or through his or her employees or agents, who offers, delivers, receives, or accepts any rebate, refund, commission, preference, patronage, dividend, discount or other consideration, whether in the form of money or otherwise, as compensation or inducement for referring clients or patients to perform or obtain services or benefits pursuant to this division, is guilty of a crime.
+
+(Added by Stats. 1991, Ch. 116, Sec. 26.)
+
+3217.
+  
+
+(a) Section 3215 shall not be construed to prevent the recommendation of professional employment where that recommendation is not prohibited by the Rules of Professional Conduct of the State Bar.
+
+(b) Section 3215 shall not be construed to prohibit a public defender or assigned counsel from making known his or her availability as a criminal defense attorney to persons unable to afford legal counsel, whether or not those persons are in custody.
+
+(c) Any person who commits an act that violates both Section 3215 and either Section 650 of the Business and Professions Code or Section 750 of the Insurance Code shall, upon conviction, have judgment and sentence imposed for only one violation for any act.
+
+(d) Section 3215 shall not be construed to prohibit the payment or receipt of consideration or services that is lawful pursuant to Section 650 of the Business and Professions Code.
+
+(e) Notwithstanding Sections 3215 and 3219, and Section 750 of the Insurance Code, nothing shall prevent an attorney at law or a law firm from providing any person or entity with legal advice, information, or legal services, including the providing of printed, copied, or written documents, either without charge or for an otherwise lawfully agreed upon attorney fee.
+
+(f) Section 3215 shall not be construed to prohibit a workers’ compensation insurer from offering, and an employer from accepting, a workers’ compensation insurance policy with rates that reflect premium discounts based upon the employer securing coverage for occupational or nonoccupational illnesses or injuries from a health care service plan or disability insurer that is owned by, affiliated with, or has a contractual relationship with, the workers’ compensation insurer.
+
+(Amended by Stats. 1995, Ch. 886, Sec. 4. Effective January 1, 1996.)
+
+3218.
+  
+
+A violation of Section 3215 is a public offense punishable upon a first conviction by incarceration in the county jail for not more than one year, or by incarceration in the state prison, or by a fine not exceeding ten thousand dollars ($10,000), or by both incarceration and fine. A second or subsequent conviction is punishable by incarceration in state prison.
+
+(Added by Stats. 1991, Ch. 116, Sec. 28.)
+
+3219.
+  
+
+(a) (1) Except as otherwise permitted by law, any person acting individually or through his or her employees or agents, who offers or delivers any rebate, refund, commission, preference, patronage, dividend, discount, or other consideration to any adjuster of claims for compensation, as defined in Section 3207, as compensation, inducement, or reward for the referral or settlement of any claim, is guilty of a felony.
+
+(2) Except as otherwise permitted by law, any adjuster of claims for compensation, as defined in Section 3207, who accepts or receives any rebate, refund, commission, preference, patronage, dividend, discount, or other consideration, as compensation, inducement, or reward for the referral or settlement of any claim, is guilty of a felony.
+
+(b) Any contract for professional services secured by any medical clinic, laboratory, physician or other health care provider in this state in violation of Section 550 of the Penal Code, Section 1871.4 of the Insurance Code, Section 650 or 651 of the Business and Professions Code, or Section 3215 or subdivision (a) of Section 3219 of this code is void. In any action against any medical clinic, laboratory, physician, or other health care provider, or the owners or operators thereof, under Chapter 4 (commencing with Section 17000) or Chapter 5 (commencing with Section 17200) of Division 7 of the Business and Professions Code, any judgment shall include an order divesting the medical clinic, laboratory, physician, or other health care provider, and the owners and operators thereof, of any fees and other compensation received pursuant to any such void contract. Those fees and compensation shall be recoverable as additional civil penalties under Chapter 4 (commencing with Section 17000) or Chapter 5 (commencing with Section 17200) of Division 7 of the Business and Professions Code. The judgment may also include an order prohibiting the person from further participating in any manner in the entity in which that person directly or indirectly owned or operated for a time period that the court deems appropriate. For the purpose of this section, “operated” means participated in the management, direction, or control of the entity.
+
+(c) Notwithstanding Section 17206 or any other provision of law, any fees recovered pursuant to subdivision (b) in an action involving professional services related to the provision of workers’ compensation shall be allocated as follows: if the action is brought by the Attorney General, one-half of the penalty collected shall be paid to the State General Fund, and one-half of the penalty collected shall be paid to the Workers’ Compensation Fraud Account in the Insurance Fund; if the action is brought by a district attorney, one-half of the penalty collected shall be paid to the treasurer of the county in which the judgment was entered, and one-half of the penalty collected shall be paid to the Workers’ Compensation Fraud Account in the Insurance Fund; if the action is brought by a city attorney or city prosecutor, one-half of the penalty collected shall be paid to the treasurer of the city in which the judgment was entered, and one-half of the penalty collected shall be paid to the Workers’ Compensation Fraud Account in the Insurance Fund. Moneys deposited into the Workers’ Compensation Fraud Account pursuant to this subdivision shall be used in the investigation and prosecution of workers’ compensation fraud, as appropriated by the Legislature.
+
+(Added by Stats. 1993, Ch. 120, Sec. 4. Effective July 16, 1993.)
