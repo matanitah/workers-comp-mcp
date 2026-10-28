@@ -23,10 +23,10 @@ sources:
     author: process:claimcalc
 regulations:
   - id: primary-statute
-    title: "Indiana Code title 22, article 3, chapter 2"
-    resource: "https://iga.in.gov/ic/2026/Title_22/Article_3/Chapter_2.pdf"
+    title: "Indiana Code title 22, article 3"
+    resource: "https://iga.in.gov/ic/2026/Title_22/Article_3.pdf"
     publisher: "Indiana General Assembly"
-    coverage: "chapter"
+    coverage: "act"
 ---
 
 # Agency

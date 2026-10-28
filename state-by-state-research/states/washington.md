@@ -23,10 +23,10 @@ sources:
     author: process:claimcalc
 regulations:
   - id: primary-statute
-    title: "Revised Code of Washington section 51.04.010"
-    resource: "https://app.leg.wa.gov/RCW/default.aspx?cite=51.04.010"
+    title: "Revised Code of Washington title 51"
+    resource: "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2051%20%20TITLE/RCW%20%2051%20%20%20TITLE/RCW%20%2051%20%20%20COMBINEDTITLE.pdf"
     publisher: "Washington State Legislature"
-    coverage: "section"
+    coverage: "act"
 ---
 
 # Agency

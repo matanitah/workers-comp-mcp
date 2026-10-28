@@ -30,14 +30,14 @@ VERIFIED_REGULATIONS = {
     },
     "DC": {
         "id": "primary-statute",
-        "title": "D.C. Code section 32-1501",
-        "resource": "https://code.dccouncil.gov/us/dc/council/code/sections/32-1501",
+        "title": "D.C. Code title 32, chapter 15",
+        "resource": "https://code.dccouncil.gov/us/dc/council/code/titles/32/chapters/15/index.full.html",
         "publisher": "Council of the District of Columbia",
     },
     "DE": {
         "id": "primary-statute",
-        "title": "Delaware Code title 19, chapter 23, subchapter I",
-        "resource": "https://delcode.delaware.gov/title19/c023/sc01/index.html",
+        "title": "Delaware Code title 19",
+        "resource": "https://delcode.delaware.gov/title19/Title19.pdf",
         "publisher": "Delaware General Assembly",
     },
     "IA": {
@@ -186,14 +186,14 @@ VERIFIED_REGULATIONS = {
     },
     "VT": {
         "id": "primary-statute",
-        "title": "Vermont Statutes title 21, section 601",
-        "resource": "https://legislature.vermont.gov/statutes/section/21/009/00601",
+        "title": "Vermont Statutes title 21, chapter 9",
+        "resource": "https://legislature.vermont.gov/statutes/fullchapter/21/009",
         "publisher": "Vermont General Assembly",
     },
     "WA": {
         "id": "primary-statute",
-        "title": "Revised Code of Washington section 51.04.010",
-        "resource": "https://app.leg.wa.gov/RCW/default.aspx?cite=51.04.010",
+        "title": "Revised Code of Washington title 51",
+        "resource": "https://lawfilesext.leg.wa.gov/law/RCWPDF/RCW%20%2051%20%20TITLE/RCW%20%2051%20%20%20TITLE/RCW%20%2051%20%20%20COMBINEDTITLE.pdf",
         "publisher": "Washington State Legislature",
     },
     "WI": {
@@ -204,8 +204,8 @@ VERIFIED_REGULATIONS = {
     },
     "WV": {
         "id": "primary-statute",
-        "title": "West Virginia Code section 23-1-1",
-        "resource": "https://code.wvlegislature.gov/23-1-1/",
+        "title": "West Virginia Code chapter 23",
+        "resource": "https://code.wvlegislature.gov/pdf/23/",
         "publisher": "West Virginia Legislature",
     },
     "WY": {
@@ -250,8 +250,8 @@ VERIFIED_REGULATIONS = {
     },
     "IN": {
         "id": "primary-statute",
-        "title": "Indiana Code title 22, article 3, chapter 2",
-        "resource": "https://iga.in.gov/ic/2026/Title_22/Article_3/Chapter_2.pdf",
+        "title": "Indiana Code title 22, article 3",
+        "resource": "https://iga.in.gov/ic/2026/Title_22/Article_3.pdf",
         "publisher": "Indiana General Assembly",
     },
     "MT": {
@@ -349,15 +349,15 @@ COVERAGE = {
     "CA": "section",
     "CO": "act",
     "CT": "act",
-    "DC": "section",
-    "DE": "chapter",
+    "DC": "act",
+    "DE": "act",
     "FL": "act",
     "GA": "rules",
     "HI": "section",
     "IA": "act",
     "ID": "chapter",
     "IL": "act",
-    "IN": "chapter",
+    "IN": "act",
     "KS": "section",
     "KY": "section",
     "LA": "section",
@@ -388,10 +388,10 @@ COVERAGE = {
     "TX": "act",
     "UT": "act",
     "VA": "act",
-    "VT": "section",
-    "WA": "section",
+    "VT": "act",
+    "WA": "act",
     "WI": "act",
-    "WV": "section",
+    "WV": "act",
     "WY": "act",
 }
 

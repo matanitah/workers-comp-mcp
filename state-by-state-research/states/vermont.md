@@ -23,10 +23,10 @@ sources:
     author: process:claimcalc
 regulations:
   - id: primary-statute
-    title: "Vermont Statutes title 21, section 601"
-    resource: "https://legislature.vermont.gov/statutes/section/21/009/00601"
+    title: "Vermont Statutes title 21, chapter 9"
+    resource: "https://legislature.vermont.gov/statutes/fullchapter/21/009"
     publisher: "Vermont General Assembly"
-    coverage: "section"
+    coverage: "act"
 ---
 
 # Agency

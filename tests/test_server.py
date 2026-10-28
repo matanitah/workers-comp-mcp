@@ -25,3 +25,6 @@ def test_list_jurisdictions_reports_coverage_and_retrieval():
     assert rows["AL"]["regulation_retrieval"] == "stored"
     assert rows["AR"]["regulation_coverage"] == "rules"
     assert rows["ID"]["regulation_coverage"] == "chapter"
+    for postal in ("DC", "DE", "IN", "VT", "WA", "WV"):
+        assert rows[postal]["regulation_coverage"] == "act"
+        assert rows[postal]["regulation_retrieval"] == "live"

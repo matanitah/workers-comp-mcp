@@ -23,10 +23,10 @@ sources:
     author: process:claimcalc
 regulations:
   - id: primary-statute
-    title: "West Virginia Code section 23-1-1"
-    resource: "https://code.wvlegislature.gov/23-1-1/"
+    title: "West Virginia Code chapter 23"
+    resource: "https://code.wvlegislature.gov/pdf/23/"
     publisher: "West Virginia Legislature"
-    coverage: "section"
+    coverage: "act"
 ---
 
 # Agency

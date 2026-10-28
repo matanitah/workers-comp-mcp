@@ -23,10 +23,10 @@ sources:
     author: process:claimcalc
 regulations:
   - id: primary-statute
-    title: "D.C. Code section 32-1501"
-    resource: "https://code.dccouncil.gov/us/dc/council/code/sections/32-1501"
+    title: "D.C. Code title 32, chapter 15"
+    resource: "https://code.dccouncil.gov/us/dc/council/code/titles/32/chapters/15/index.full.html"
     publisher: "Council of the District of Columbia"
-    coverage: "section"
+    coverage: "act"
 ---
 
 # Agency

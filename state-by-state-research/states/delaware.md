@@ -23,10 +23,10 @@ sources:
     author: process:claimcalc
 regulations:
   - id: primary-statute
-    title: "Delaware Code title 19, chapter 23, subchapter I"
-    resource: "https://delcode.delaware.gov/title19/c023/sc01/index.html"
+    title: "Delaware Code title 19"
+    resource: "https://delcode.delaware.gov/title19/Title19.pdf"
     publisher: "Delaware General Assembly"
-    coverage: "chapter"
+    coverage: "act"
 ---
 
 # Agency
